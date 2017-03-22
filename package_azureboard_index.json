@@ -17,10 +17,10 @@
           "help": {
             "online": "https://github.com/Microsoft/customized_board_Arduino"
           },
-          "url": "https://github.com/Microsoft/customized_board_Arduino/azurebit/azurecustomizedboards-1.0.0.zip",
-          "archiveFileName": "azurecustomizedboards-1.0.0.zip",
-          "checksum": "SHA-256:ec3ff8a1dc96d3ba6f432b9b837a35fd4174a34b3d2927de1d51010e8b94f9f1",
-          "size": "15005",
+          "url": "https://github.com/lirenhe/arduinoazureboard/raw/master/MK3166.zip",
+          "archiveFileName": "MK3166.zip",
+          "checksum": "MD5:f12661fb31fa57fe1af1462ac6347b7b",
+          "size": "12238153",
           "boards": [
             {"name": "AzureBit"}
           ],
