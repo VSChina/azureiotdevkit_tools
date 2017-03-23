@@ -46,9 +46,9 @@
             {
               "host": "i686-mingw32",
               "archiveFileName": "gcc-arm-none-eabi-5_4-2016q3-20160926-win32.zip",
-              "url": "https://launchpad.net/gcc-arm-embedded/5.0/5-2016-q3-update/+download/gcc-arm-none-eabi-5_4-2016q3-20160926-win32.zip",
-              "checksum": "MD5:dd46badbea382c884dd7079dcc5b4e0d",
-              "size": "123456717"
+              "url": "https://azureboard.blob.core.windows.net/toolchain/gcc-arm-none-eabi-5_4-2016q3-20160926-win32.zip",
+              "checksum": "MD5:fa96e8b97c32544f78fb158c9bf12a39",
+              "size": "103855187"
             },
             {
               "host": "x86_64-apple-darwin",
