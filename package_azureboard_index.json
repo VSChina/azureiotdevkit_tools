@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/lirenhe/arduinoazureboard/raw/master/MK3166-1.0.0.zip",
           "archiveFileName": "MK3166-1.0.0.zip",
-          "checksum": "MD5:52de408c9342d8d8481580f3517a7f4b",
-          "size": "12238153",
+          "checksum": "MD5:531d4012804c85a8625e9f0746ca53c6",
+          "size": "9572241",
           "boards": [
             {"name": "AzureBit"}
           ],
