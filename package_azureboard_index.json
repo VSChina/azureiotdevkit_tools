@@ -18,7 +18,7 @@
             "online": "https://github.com/Microsoft/customized_board_Arduino"
           },
           "url": "https://github.com/lirenhe/arduinoazureboard/raw/master/MK3166.zip",
-          "archiveFileName": "MK3166.zip",
+          "archiveFileName": "MK3166-1.0.0.zip",
           "checksum": "MD5:f12661fb31fa57fe1af1462ac6347b7b",
           "size": "12238153",
           "boards": [
