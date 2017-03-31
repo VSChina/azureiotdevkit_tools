@@ -17,7 +17,7 @@
           "help": {
             "online": "https://github.com/Microsoft/customized_board_Arduino"
           },
-          "url": "https://github.com/lirenhe/arduinoazureboard/raw/master/MK3166-1.0.0.zip",
+          "url": "https://azureboard.blob.core.windows.net/arduinopackage/MK3166-1.0.0.zip",
           "archiveFileName": "MK3166-1.0.0.zip",
           "checksum": "MD5:531d4012804c85a8625e9f0746ca53c6",
           "size": "9572241",
@@ -79,28 +79,28 @@
           "systems": [
             {
               "host": "i686-linux-gnu",
-              "url": "https://github.com/lirenhe/arduinoazureboard/raw/master/AzureBoardTools-2017.3.22.zip",
+              "url": "https://azureboard.blob.core.windows.net/toolchain/AzureBoardTools-2017.3.22.zip",
               "archiveFileName": "AzureBoardTools-2017.3.22.zip",
               "checksum": "SHA-256:afe9da2841cc0c03b1c5232514b3eb25ef9763c30a4f974a174be4e3cd9ed721",
               "size": "6623543"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://github.com/lirenhe/arduinoazureboard/raw/master/AzureBoardTools-2017.3.22.zip",
+              "url": "https://azureboard.blob.core.windows.net/toolchain/AzureBoardTools-2017.3.22.zip",
               "archiveFileName": "AzureBoardTools-2017.3.22.zip",
               "checksum": "SHA-256:afe9da2841cc0c03b1c5232514b3eb25ef9763c30a4f974a174be4e3cd9ed721",
               "size": "6623543"
             },
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/lirenhe/arduinoazureboard/raw/master/AzureBoardTools-2017.3.22.zip",
+              "url": "https://azureboard.blob.core.windows.net/toolchain/AzureBoardTools-2017.3.22.zip",
               "archiveFileName": "AzureBoardTools-2017.3.22.zip",
               "checksum": "SHA-256:afe9da2841cc0c03b1c5232514b3eb25ef9763c30a4f974a174be4e3cd9ed721",
               "size": "6623543"
             },
             {
               "host": "i386-apple-darwin11",
-              "url": "https://github.com/lirenhe/arduinoazureboard/raw/master/AzureBoardTools-2017.3.22.zip",
+              "url": "https://azureboard.blob.core.windows.net/toolchain/AzureBoardTools-2017.3.22.zip",
               "archiveFileName": "AzureBoardTools-2017.3.22.zip",
               "checksum": "SHA-256:afe9da2841cc0c03b1c5232514b3eb25ef9763c30a4f974a174be4e3cd9ed721",
               "size": "6623543"
