@@ -19,8 +19,8 @@
           },
           "url": "https://azureboard.blob.core.windows.net/toolchain/AZ3166-1.0.0.zip",
           "archiveFileName": "AZ3166-1.0.0.zip",
-          "checksum": "MD5:753ed59e1c6d5c9b25e4a9edcf12651d",
-          "size": "6468065",
+          "checksum": "MD5:4e943d6b8d4594109f19ae4bd1df67c6",
+          "size": "6468060",
           "boards": [
             {
               "name": "AZ3166"
