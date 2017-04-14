@@ -23,7 +23,7 @@
           "size": "6468060",
           "boards": [
             {
-              "name": "AZ3166"
+              "name": "Microsoft Azure IoT Developer Kit AZ3166"
             }
           ],
           "toolsDependencies": [
