@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Microsoft Azure IoT Developer Kit",
+          "name": "MXChip - Microsoft Azure IoT Developer Kit",
           "architecture": "stm32f4",
           "version": "1.0.0",
           "category": "Contributed",
@@ -23,7 +23,7 @@
           "size": "6468060",
           "boards": [
             {
-              "name": "Microsoft Azure IoT Developer Kit AZ3166"
+              "name": "MXChip - Microsoft Azure IoT Developer Kit AZ3166"
             }
           ],
           "toolsDependencies": [
