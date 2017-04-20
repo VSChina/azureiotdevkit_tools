@@ -19,8 +19,8 @@
           },
           "url": "https://azureboard.blob.core.windows.net/test/0.8.0.zip",
           "archiveFileName": "0.8.0.zip",
-          "checksum": "MD5:59f5694df497d23acdfc8022283ef212",
-          "size": "6486730",
+          "checksum": "MD5:7e95db18111bd02681b31cf95c762688",
+          "size": "6484852",
           "boards": [
             {
               "name": "MXChip - Microsoft Azure IoT Developer Kit AZ3166"
@@ -36,6 +36,11 @@
               "packager": "AZ3166",
               "name": "st-flash",
               "version": "1.3.1"
+            },
+			{
+              "packager": "AZ3166",
+              "name": "openocd",
+              "version": "0.10.0"
             }
           ]
         }
@@ -106,6 +111,40 @@
               "archiveFileName": "st-flash-1.3.1.zip",
               "checksum": "MD5:e60b9c48ce0561566b93374438e868b6",
               "size": "462883"
+            }
+          ]
+        },
+        {
+          "name": "openocd",
+          "version": "0.10.0",
+          "systems": [
+            {
+              "host": "i686-linux-gnu",
+              "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.zip",
+              "archiveFileName": "openocd-0.10.0.zip",
+              "checksum": "MD5:07cc5eb8dd17df7d62156f1a2b128182",
+              "size": "7027793"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.zip",
+              "archiveFileName": "openocd-0.10.0.zip",
+              "checksum": "MD5:07cc5eb8dd17df7d62156f1a2b128182",
+              "size": "7027793"
+            },
+            {
+              "host": "i686-mingw32",
+              "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.zip",
+              "archiveFileName": "openocd-0.10.0.zip",
+              "checksum": "MD5:07cc5eb8dd17df7d62156f1a2b128182",
+              "size": "7027793"
+            },
+            {
+              "host": "i386-apple-darwin11",
+              "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.zip",
+              "archiveFileName": "openocd-0.10.0.zip",
+              "checksum": "MD5:07cc5eb8dd17df7d62156f1a2b128182",
+              "size": "7027793"
             }
           ]
         }
