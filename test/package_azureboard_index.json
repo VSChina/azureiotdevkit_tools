@@ -1,0 +1,115 @@
+{
+  "packages": [
+    {
+      "name": "AZ3166",
+      "maintainer": "Microsoft Developer",
+      "websiteURL": "https://github.com/Microsoft/azure-iot-developer-kit",
+      "email": "aziotdevkit@microsoft.com",
+      "help": {
+        "online": "https://github.com/Microsoft/azure-iot-developer-kit"
+      },
+      "platforms": [
+        {
+          "name": "MXChip - Microsoft Azure IoT Developer Kit",
+          "architecture": "stm32f4",
+          "version": "0.8",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/Microsoft/azure-iot-developer-kit"
+          },
+          "url": "https://azureboard.blob.core.windows.net/test/0.8.0.zip",
+          "archiveFileName": "AZ3166-0.8.0.zip",
+          "checksum": "MD5:59f5694df497d23acdfc8022283ef212",
+          "size": "6486730",
+          "boards": [
+            {
+              "name": "MXChip - Microsoft Azure IoT Developer Kit AZ3166"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "AZ3166",
+              "name": "arm-none-eabi-gcc",
+              "version": "5_4-2016q3"
+            },
+            {
+              "packager": "AZ3166",
+              "name": "st-flash",
+              "version": "1.3.1"
+            }
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "name": "arm-none-eabi-gcc",
+          "version": "5_4-2016q3",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "archiveFileName": "gcc-arm-none-eabi-5_4-2016q3-20160926-win32.zip",
+              "url": "https://azureboard.blob.core.windows.net/toolchain/gcc-arm-none-eabi-5_4-2016q3-20160926-win32.zip",
+              "checksum": "MD5:fa96e8b97c32544f78fb158c9bf12a39",
+              "size": "103855187"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
+              "checksum": "SHA-256:3598acf21600f17a8e4a4e8e193dc422b894dc09384759b270b2ece5facb59c2",
+              "size": "52518522"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-linux64.tar.gz",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-linux64.tar.gz",
+              "checksum": "SHA-256:d23f6626148396d6ec42a5b4d928955a703e0757829195fa71a939e5b86eecf6",
+              "size": "51395093"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-linux32.tar.gz",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-linux32.tar.gz",
+              "checksum": "SHA-256:ba1994235f69c526c564f65343f22ddbc9822b2ea8c5ee07dd79d89f6ace2498",
+              "size": "51029223"
+            }
+          ]
+        },
+        {
+          "name": "st-flash",
+          "version": "1.3.1",
+          "systems": [
+            {
+              "host": "i686-linux-gnu",
+              "url": "https://azureboard.blob.core.windows.net/toolchain/st-flash-1.3.1.zip",
+              "archiveFileName": "st-flash-1.3.1.zip",
+              "checksum": "MD5:e60b9c48ce0561566b93374438e868b6",
+              "size": "462883"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://azureboard.blob.core.windows.net/toolchain/st-flash-1.3.1.zip",
+              "archiveFileName": "st-flash-1.3.1.zip",
+              "checksum": "MD5:e60b9c48ce0561566b93374438e868b6",
+              "size": "462883"
+            },
+            {
+              "host": "i686-mingw32",
+              "url": "https://azureboard.blob.core.windows.net/toolchain/st-flash-1.3.1.zip",
+              "archiveFileName": "st-flash-1.3.1.zip",
+              "checksum": "MD5:e60b9c48ce0561566b93374438e868b6",
+              "size": "462883"
+            },
+            {
+              "host": "i386-apple-darwin11",
+              "url": "https://azureboard.blob.core.windows.net/toolchain/st-flash-1.3.1.zip",
+              "archiveFileName": "st-flash-1.3.1.zip",
+              "checksum": "MD5:e60b9c48ce0561566b93374438e868b6",
+              "size": "462883"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
