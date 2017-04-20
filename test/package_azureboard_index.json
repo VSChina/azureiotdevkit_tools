@@ -122,29 +122,29 @@
               "host": "i686-linux-gnu",
               "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.zip",
               "archiveFileName": "openocd-0.10.0.zip",
-              "checksum": "MD5:07cc5eb8dd17df7d62156f1a2b128182",
-              "size": "7027793"
+              "checksum": "MD5:3648e4cd6af88ae4e3a59e068723a1d7",
+              "size": "10406262"
             },
             {
               "host": "x86_64-pc-linux-gnu",
               "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.zip",
               "archiveFileName": "openocd-0.10.0.zip",
-              "checksum": "MD5:07cc5eb8dd17df7d62156f1a2b128182",
-              "size": "7027793"
+              "checksum": "MD5:3648e4cd6af88ae4e3a59e068723a1d7",
+              "size": "10406262"
             },
             {
               "host": "i686-mingw32",
               "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.zip",
               "archiveFileName": "openocd-0.10.0.zip",
-              "checksum": "MD5:07cc5eb8dd17df7d62156f1a2b128182",
-              "size": "7027793"
+              "checksum": "MD5:3648e4cd6af88ae4e3a59e068723a1d7",
+              "size": "10406262"
             },
             {
               "host": "i386-apple-darwin11",
               "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.zip",
               "archiveFileName": "openocd-0.10.0.zip",
-              "checksum": "MD5:07cc5eb8dd17df7d62156f1a2b128182",
-              "size": "7027793"
+              "checksum": "MD5:3648e4cd6af88ae4e3a59e068723a1d7",
+              "size": "10406262"
             }
           ]
         }
