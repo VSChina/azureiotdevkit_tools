@@ -59,10 +59,10 @@
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://azureboard.blob.core.windows.net/toolchain/gcc-arm-none-eabi-5_4-2016q3-mac.zip",
-              "archiveFileName": "gcc-arm-none-eabi-5_4-2016q3-mac.zip",
-              "checksum": "MD5:3e8bb1b31a3bff308d431b8ede412f3d",
-              "size": "128844984"
+              "url": "https://azureboard.blob.core.windows.net/toolchain/gcc-arm-none-eabi-5_4-2016q3.tar.gz",
+              "archiveFileName": "gcc-arm-none-eabi-5_4-2016q3.tar.gz",
+              "checksum": "MD5:1c44cafab7d4c3d437c81828a6c85c7e",
+              "size": "116878042"
             },
             {
               "host": "x86_64-pc-linux-gnu",
