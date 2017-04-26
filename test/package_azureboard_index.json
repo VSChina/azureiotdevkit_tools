@@ -86,31 +86,31 @@
           "systems": [
             {
               "host": "i686-linux-gnu",
-              "url": "https://azureboard.blob.core.windows.net/toolchain/st-flash-1.3.1.tar.gz",
-              "archiveFileName": "st-flash-1.3.1.tar.gz",
-              "checksum": "MD5:0b7c94e19dda26f4331ec3e00250a1b0",
-              "size": "453270"
+              "url": "https://azureboard.blob.core.windows.net/toolchain/st-flash-1.3.1.zip",
+              "archiveFileName": "st-flash-1.3.1.zip",
+              "checksum": "MD5:e60b9c48ce0561566b93374438e868b6",
+              "size": "462883"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://azureboard.blob.core.windows.net/toolchain/st-flash-1.3.1.tar.gz",
-              "archiveFileName": "st-flash-1.3.1.tar.gz",
-              "checksum": "MD5:0b7c94e19dda26f4331ec3e00250a1b0",
-              "size": "453270"
+              "url": "https://azureboard.blob.core.windows.net/toolchain/st-flash-1.3.1.zip",
+              "archiveFileName": "st-flash-1.3.1.zip",
+              "checksum": "MD5:e60b9c48ce0561566b93374438e868b6",
+              "size": "462883"
             },
             {
               "host": "i686-mingw32",
-              "url": "https://azureboard.blob.core.windows.net/toolchain/st-flash-1.3.1.tar.gz",
-              "archiveFileName": "st-flash-1.3.1.tar.gz",
-              "checksum": "MD5:0b7c94e19dda26f4331ec3e00250a1b0",
-              "size": "453270"
+              "url": "https://azureboard.blob.core.windows.net/toolchain/st-flash-1.3.1.zip",
+              "archiveFileName": "st-flash-1.3.1.zip",
+              "checksum": "MD5:e60b9c48ce0561566b93374438e868b6",
+              "size": "462883"
             },
             {
               "host": "i386-apple-darwin11",
               "url": "https://azureboard.blob.core.windows.net/toolchain/st-flash-1.3.1.tar.gz",
               "archiveFileName": "st-flash-1.3.1.tar.gz",
-              "checksum": "MD5:0b7c94e19dda26f4331ec3e00250a1b0",
-              "size": "453270"
+              "checksum": "MD5:485e0aad9ba38293b60f7cc76dfc1909",
+              "size": "462883"
             }
           ]
         },
@@ -120,31 +120,31 @@
           "systems": [
             {
               "host": "i686-linux-gnu",
-              "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.tar.gz",
-              "archiveFileName": "openocd-0.10.0.tar.gz",
-              "checksum": "MD5:cea2ce01e7f31955f28a332096ae50b1",
-              "size": "11846412"
+              "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.zip",
+              "archiveFileName": "openocd-0.10.0.zip",
+              "checksum": "MD5:3648e4cd6af88ae4e3a59e068723a1d7",
+              "size": "10406262"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.tar.gz",
-              "archiveFileName": "openocd-0.10.0.tar.gz",
-              "checksum": "MD5:cea2ce01e7f31955f28a332096ae50b1",
-              "size": "11846412"
+              "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.zip",
+              "archiveFileName": "openocd-0.10.0.zip",
+              "checksum": "MD5:3648e4cd6af88ae4e3a59e068723a1d7",
+              "size": "10406262"
             },
             {
               "host": "i686-mingw32",
-              "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.tar.gz",
-              "archiveFileName": "openocd-0.10.0.tar.gz",
-              "checksum": "MD5:cea2ce01e7f31955f28a332096ae50b1",
-              "size": "11846412"
+              "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.zip",
+              "archiveFileName": "openocd-0.10.0.zip",
+              "checksum": "MD5:3648e4cd6af88ae4e3a59e068723a1d7",
+              "size": "10406262"
             },
             {
               "host": "i386-apple-darwin11",
               "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.tar.gz",
               "archiveFileName": "openocd-0.10.0.tar.gz",
-              "checksum": "MD5:cea2ce01e7f31955f28a332096ae50b1",
-              "size": "11846412"
+              "checksum": "MD5:cc33d45956f146038c315880de83bdb1",
+              "size": "2470470"
             }
           ]
         }
