@@ -136,8 +136,8 @@
               "host": "i686-mingw32",
               "url": "https://azureboard.blob.core.windows.net/toolchain/openocd-0.10.0.zip",
               "archiveFileName": "openocd-0.10.0.zip",
-              "checksum": "MD5:3648e4cd6af88ae4e3a59e068723a1d7",
-              "size": "10406262"
+              "checksum": "MD5:e2b41d2279b08fb002ecfd13c8764725",
+              "size": "2784537"
             },
             {
               "host": "i386-apple-darwin11",
