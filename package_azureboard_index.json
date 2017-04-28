@@ -19,8 +19,8 @@
           },
           "url": "https://azureboard.blob.core.windows.net/arduinopackage/AZ3166-0.8.0.zip",
           "archiveFileName": "AZ3166-0.8.0.zip",
-          "checksum": "MD5:1a47692a97a0e4e997338578d6aa9df9",
-          "size": "6339542",
+          "checksum": "MD5:9606e83638ee8aaabe76dd16377533c6",
+          "size": "6297139",
           "boards": [
             {
               "name": "MXChip - Microsoft Azure IoT Developer Kit AZ3166"
