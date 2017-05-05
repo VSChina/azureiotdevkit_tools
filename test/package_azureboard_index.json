@@ -49,7 +49,7 @@
           },
           "url": "https://azureboard.blob.core.windows.net/arduinopackage/AZ3166-0.8.1.zip",
           "archiveFileName": "AZ3166-0.8.1.zip",
-          "checksum": "MD5:a2bde1493a6609913f017bcf6ea37cc9",
+          "checksum": "MD5:807f39343d15ba6975be8468eaa77ab7",
           "size": "6270165",
           "boards": [
             {
