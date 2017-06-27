@@ -12,15 +12,15 @@
         {
           "name": "MXChip - Microsoft Azure IoT Developer Kit",
           "architecture": "stm32f4",
-          "version": "0.8.0",
+          "version": "0.8.1",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/Microsoft/azure-iot-developer-kit"
           },
-          "url": "https://azureboard.blob.core.windows.net/arduinopackage/AZ3166-0.8.0.zip",
-          "archiveFileName": "AZ3166-0.8.0.zip",
-          "checksum": "MD5:a2bde1493a6609913f017bcf6ea37cc9",
-          "size": "6270165",
+          "url": "https://azureboard.blob.core.windows.net/arduinopackage/AZ3166-0.8.1.zip",
+          "archiveFileName": "AZ3166-0.8.1.zip",
+          "checksum": "MD5:3b030a07fd67ee73330ad89b078a5f61",
+          "size": "6260447",
           "boards": [
             {
               "name": "MXChip - Microsoft Azure IoT Developer Kit AZ3166"
@@ -32,30 +32,25 @@
               "name": "arm-none-eabi-gcc",
               "version": "5_4-2016q3"
             },
-			{
-              "packager": "AZ3166",
-              "name": "st-flash",
-              "version": "1.3.1"
-            },
-			{
+            {
               "packager": "AZ3166",
               "name": "openocd",
               "version": "0.10.0"
             }
           ]
         },
-        {
+		{
           "name": "MXChip - Microsoft Azure IoT Developer Kit",
           "architecture": "stm32f4",
-          "version": "0.8.1",
+          "version": "1.0.0",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/Microsoft/azure-iot-developer-kit"
           },
-          "url": "https://azureboard.blob.core.windows.net/arduinopackage/AZ3166-0.8.1.zip",
-          "archiveFileName": "AZ3166-0.8.1.zip",
-          "checksum": "MD5:3b030a07fd67ee73330ad89b078a5f61",
-          "size": "6260447",
+          "url": "https://azureboard.blob.core.windows.net/arduinopackage/AZ3166-1.0.0.zip",
+          "archiveFileName": "AZ3166-1.0.0.zip",
+          "checksum": "MD5:ef0969d91f90067d00e0b4c24f28f53c",
+          "size": "3268483",
           "boards": [
             {
               "name": "MXChip - Microsoft Azure IoT Developer Kit AZ3166"
@@ -107,40 +102,6 @@
               "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-linux32.tar.gz",
               "checksum": "SHA-256:ba1994235f69c526c564f65343f22ddbc9822b2ea8c5ee07dd79d89f6ace2498",
               "size": "51029223"
-            }
-          ]
-        },
-        {
-          "name": "st-flash",
-          "version": "1.3.1",
-          "systems": [
-            {
-              "host": "i686-linux-gnu",
-              "url": "https://azureboard.blob.core.windows.net/toolchain/st-flash-1.3.1.zip",
-              "archiveFileName": "st-flash-1.3.1.zip",
-              "checksum": "MD5:e60b9c48ce0561566b93374438e868b6",
-              "size": "462883"
-            },
-            {
-              "host": "x86_64-pc-linux-gnu",
-              "url": "https://azureboard.blob.core.windows.net/toolchain/st-flash-1.3.1.zip",
-              "archiveFileName": "st-flash-1.3.1.zip",
-              "checksum": "MD5:e60b9c48ce0561566b93374438e868b6",
-              "size": "462883"
-            },
-            {
-              "host": "i686-mingw32",
-              "url": "https://azureboard.blob.core.windows.net/toolchain/st-flash-1.3.1.zip",
-              "archiveFileName": "st-flash-1.3.1.zip",
-              "checksum": "MD5:e60b9c48ce0561566b93374438e868b6",
-              "size": "462883"
-            },
-            {
-              "host": "i386-apple-darwin11",
-              "url": "https://azureboard.blob.core.windows.net/toolchain/st-flash-1.3.1.tar.gz",
-              "archiveFileName": "st-flash-1.3.1.tar.gz",
-              "checksum": "MD5:485e0aad9ba38293b60f7cc76dfc1909",
-              "size": "462883"
             }
           ]
         },
