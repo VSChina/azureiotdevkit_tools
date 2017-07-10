@@ -1,0 +1,142 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "functionAppName": {
+            "type": "string"
+        },
+        "appSettings": {
+            "type": "array",
+            "defaultValue": []
+        }
+    },
+    "variables": {
+        "storageAccountName": "[concat('storage', uniquestring(resourceGroup().id))]",
+        "defaultAppSettings": [
+            {
+                "name": "WEBSITE_CONTENTSHARE",
+                "value": "[toLower(parameters('functionAppName'))]"
+            },
+            {
+                "name": "WEBSITE_NODE_DEFAULT_VERSION",
+                "value": "6.5.0"
+            },
+            {
+                "name": "FUNCTIONS_EXTENSION_VERSION",
+                "value": "~1"
+            }
+        ],
+        "appSettings": "[union(variables('defaultAppSettings'), parameters('appSettings'))]"
+    },
+    "resources": [
+        {
+            "apiVersion": "2017-05-10",
+            "name": "storageTemplate",
+            "type": "Microsoft.Resources/deployments",
+            "properties": {
+                "parameters": {
+                    "storageAccountName": {
+                        "value": "[variables('storageAccountName')]"
+                    },
+                    "storageAccountType": {
+                        "value": "Standard_LRS"
+                    }
+                },
+                "mode": "Incremental",
+                "templateLink": {
+                    "uri": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/master/arm-template/storage.json#"
+                }
+            }
+        },
+        {
+            "apiVersion": "2017-05-10",
+            "name": "serverfarmsTemplate",
+            "type": "Microsoft.Resources/deployments",
+            "properties": {
+                "parameters": {
+                    "siteName": {
+                        "value": "[parameters('functionAppName')]"
+                    }
+                },
+                "mode": "Incremental",
+                "templateLink": {
+                    "uri": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/master/arm-template/serverfarms.json#"
+                }
+            }
+        },
+        {
+            "apiVersion": "2017-05-10",
+            "name": "storageConnectionStringAppSettings",
+            "type": "Microsoft.Resources/deployments",
+            "properties": {
+                "mode": "Incremental",
+                "template": {
+                    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+                    "contentVersion": "1.0.0.0",
+                    "resources": [],
+                    "outputs": {
+                        "connctionStrings": {
+                            "type": "array",
+                            "value": [
+                                {
+                                    "name": "AzureWebJobsDashboard",
+                                    "value": "[reference('storageTemplate').outputs.connectionString.value]"
+                                },
+                                {
+                                    "name": "AzureWebJobsStorage",
+                                    "value": "[reference('storageTemplate').outputs.connectionString.value]"
+                                },
+                                {
+                                    "name": "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING",
+                                    "value": "[reference('storageTemplate').outputs.connectionString.value]"
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Resources/deployments', 'storageTemplate')]"
+            ]
+        },
+        {
+            "type": "Microsoft.Web/sites",
+            "kind": "functionapp",
+            "name": "[parameters('functionAppName')]",
+            "apiVersion": "2015-08-01",
+            "location": "West US",
+            "properties": {
+                "name": "[parameters('functionAppName')]",
+                "siteConfig": {
+                    "appSettings": "[union(reference('storageConnectionStringAppSettings').outputs.connctionStrings.value, variables('appSettings'))]"
+                },
+                "hostNames": [
+                    "[concat(parameters('functionAppName'),'.azurewebsites.net')]"
+                ],
+                "enabledHostNames": [
+                    "[concat(parameters('functionAppName'),'.azurewebsites.net')]",
+                    "[concat(parameters('functionAppName'),'.scm.azurewebsites.net')]"
+                ],
+                "hostNameSslStates": [
+                    {
+                        "name": "[concat(parameters('functionAppName'),'.azurewebsites.net')]",
+                        "sslState": 0,
+                        "thumbprint": null,
+                        "ipBasedSslState": 0
+                    },
+                    {
+                        "name": "[concat(parameters('functionAppName'),'.scm.azurewebsites.net')]",
+                        "sslState": 0,
+                        "thumbprint": null,
+                        "ipBasedSslState": 0
+                    }
+                ],
+                "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('functionAppName'))]"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Resources/deployments', 'storageConnectionStringAppSettings')]",
+                "[resourceId('Microsoft.Resources/deployments', 'serverfarmsTemplate')]"
+            ]
+        }
+    ]
+}
