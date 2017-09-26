@@ -109,7 +109,7 @@
                                                         },
                                                "url":  "https://azureboard.blob.core.windows.net/prod/arduinopackage/AZ3166-1.0.2.zip",
                                                "archiveFileName":  "AZ3166-1.0.2.zip",
-                                               "checksum":  "MD5:95f4f119509c0b4a8e484ac39d971f3f",
+                                               "checksum":  "MD5:3240a48a04f352dff8c1cfcdaccd7f8c",
                                                "size":  "3801400",
                                                "boards":  [
                                                               {
