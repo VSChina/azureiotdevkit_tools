@@ -17,7 +17,7 @@
                                                "help":  {
                                                             "online":  "https://github.com/Microsoft/azure-iot-developer-kit"
                                                         },
-                                               "url":  "https://azureboard.azureedge.net/arduinopackage/AZ3166-1.0.0.zip",
+                                               "url":  "https://azureboard.azureedge.net/prod/arduinopackage/AZ3166-1.0.0.zip",
                                                "archiveFileName":  "AZ3166-1.0.0.zip",
                                                "checksum":  "MD5:ef0969d91f90067d00e0b4c24f28f53c",
                                                "size":  "3268483",
@@ -47,7 +47,7 @@
                                                "help":  {
                                                             "online":  "https://github.com/Microsoft/azure-iot-developer-kit"
                                                         },
-                                               "url":  "https://azureboard.azureedge.net/arduinopackage/AZ3166-1.0.1.zip",
+                                               "url":  "https://azureboard.azureedge.net/prod/arduinopackage/AZ3166-1.0.1.zip",
                                                "archiveFileName":  "AZ3166-1.0.1.zip",
                                                "checksum":  "MD5:e79ec33e5dae487f64bd302ecd84fdd3",
                                                "size":  "3263439",
