@@ -77,7 +77,7 @@
                                                "help":  {
                                                             "online":  "https://github.com/Microsoft/azure-iot-developer-kit"
                                                         },
-                                               "url":  "https://azureboard.blob.core.windows.net/prod/arduinopackage/AZ3166-1.0.2.zip",
+                                               "url":  "https://azureboard.azureedge.net/prod/arduinopackage/AZ3166-1.0.2.zip",
                                                "archiveFileName":  "AZ3166-1.0.2.zip",
                                                "checksum":  "MD5:3240a48a04f352dff8c1cfcdaccd7f8c",
                                                "size":  "3373286",
@@ -107,7 +107,7 @@
                                                "help":  {
                                                             "online":  "https://github.com/Microsoft/azure-iot-developer-kit"
                                                         },
-                                               "url":  "https://azureboard.blob.core.windows.net/prod/arduinopackage/AZ3166-1.1.0.zip",
+                                               "url":  "https://azureboard.azureedge.net/prod/arduinopackage/AZ3166-1.1.0.zip",
                                                "archiveFileName":  "AZ3166-1.1.0.zip",
                                                "checksum":  "MD5:3240a48a04f352dff8c1cfcdaccd7f8c",
                                                "size":  "3373286",
@@ -137,7 +137,7 @@
                                                "help":  {
                                                             "online":  "https://github.com/Microsoft/azure-iot-developer-kit"
                                                         },
-                                               "url":  "https://azureboard1.blob.core.windows.net/prod/arduinopackage/AZ3166-1.1.1.zip",
+                                               "url":  "https://azureboard.azureedge.net/prod/arduinopackage/AZ3166-1.1.1.zip",
                                                "archiveFileName":  "AZ3166-1.1.1.zip",
                                                "checksum":  "MD5:b569dffb2cbd293c7efbe157a340cb88",
                                                "size":  "3874143",
