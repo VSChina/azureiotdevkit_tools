@@ -79,7 +79,7 @@
                                                         },
                                                "url":  "https://azureboard2.azureedge.net/prod/arduinopackage/AZ3166-1.0.2.zip",
                                                "archiveFileName":  "AZ3166-1.0.2.zip",
-                                               "checksum":  "MD5:3240a48a04f352dff8c1cfcdaccd7f8c",
+                                               "checksum":  "MD5:50548f4e3a8eab6fcd8c211a70190340",
                                                "size":  "3373286",
                                                "boards":  [
                                                               {
@@ -109,7 +109,7 @@
                                                         },
                                                "url":  "https://azureboard2.azureedge.net/prod/arduinopackage/AZ3166-1.1.0.zip",
                                                "archiveFileName":  "AZ3166-1.1.0.zip",
-                                               "checksum":  "MD5:3240a48a04f352dff8c1cfcdaccd7f8c",
+                                               "checksum":  "MD5:1e346388f27551f5ba607dfca61a400d",
                                                "size":  "3373286",
                                                "boards":  [
                                                               {
@@ -139,7 +139,7 @@
                                                         },
                                                "url":  "https://azureboard2.azureedge.net/prod/arduinopackage/AZ3166-1.1.1.zip",
                                                "archiveFileName":  "AZ3166-1.1.1.zip",
-                                               "checksum":  "MD5:b569dffb2cbd293c7efbe157a340cb88",
+                                               "checksum":  "MD5:9e0a82276cd0603dfb50fab5518c47a3",
                                                "size":  "3874143",
                                                "boards":  [
                                                               {
