@@ -19,7 +19,7 @@
             "kind": "functionapp",
             "name": "[parameters('siteName')]",
             "apiVersion": "2015-08-01",
-            "location": "West US",
+            "location": "[resourceGroup().location]",
             "properties": {
                 "name": "[parameters('siteName')]",
                 "numberOfWorkers": 0

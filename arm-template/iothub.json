@@ -29,7 +29,7 @@
             },
             "name": "[parameters('iotHubName')]",
             "apiVersion": "2016-02-03",
-            "location": "West US",
+            "location": "[resourceGroup().location]",
             "tags": {},
             "properties": {
                 "eventHubEndpoints": {

@@ -104,7 +104,7 @@
             "kind": "functionapp",
             "name": "[parameters('functionAppName')]",
             "apiVersion": "2015-08-01",
-            "location": "West US",
+            "location": "[resourceGroup().location]",
             "properties": {
                 "name": "[parameters('functionAppName')]",
                 "siteConfig": {
