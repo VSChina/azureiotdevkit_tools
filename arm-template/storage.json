@@ -22,7 +22,7 @@
             "type": "Microsoft.Storage/storageAccounts",
             "name": "[parameters('storageAccountName')]",
             "apiVersion": "2015-06-15",
-            "location": "West US",
+            "location": "[resourceGroup().location]",
             "properties": {
                 "accountType": "[parameters('storageAccountType')]"
             }
