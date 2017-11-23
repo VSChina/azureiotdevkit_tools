@@ -197,7 +197,7 @@
                     "help": {
                         "online": "https://microsoft.github.io/azure-iot-developer-kit/"
                     },
-                    "url": "https://azureboard2.azureedge.net/staging/arduinopackage/AZ3166-1.2.1.zip",
+                    "url": "https://azureboard2.azureedge.net/prod/arduinopackage/AZ3166-1.2.1.zip",
                     "archiveFileName": "AZ3166-1.2.1.zip",
                     "checksum": "MD5:c7814efcc7c4d61a5a3b801809265bbb",
                     "size": "3788484 ",
