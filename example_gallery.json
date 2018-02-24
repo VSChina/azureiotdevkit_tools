@@ -1,6 +1,6 @@
 [{
     "name": "Get_Started",
-	"detail": "Get started with DevKit mini solution.",
-	"description": "Send sensor data from DevKit to Azure IoTHub"
+	"detail": "Get started with DevKit mini solution",
+	"description": "Send sensor data from DevKit to Azure IoTHub",
     "url": "https://github.com/DevKitExamples/GetStarted/archive/master.zip"
 }]
