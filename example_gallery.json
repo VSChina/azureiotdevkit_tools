@@ -2,5 +2,10 @@
     "name": "Get_Started",
 	"detail": "Get started with DevKit mini solution",
 	"description": "Send sensor data from DevKit to Azure IoTHub",
-    "url": "https://github.com/DevKitExamples/GetStarted/archive/master.zip"
+    "url": "https://github.com/IoTDevEnvExamples/GetStarted/archive/master.zip"
+}, {
+    "name": "DevKit_DPS",
+	"detail": "Device registration with DPS",
+	"description": "Automatically provision security enabled devices to Azure IoTHub",
+    "url": "https://github.com/IoTDevEnvExamples/DevKitDPS/archive/master.zip"
 }]
