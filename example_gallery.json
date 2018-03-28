@@ -13,4 +13,15 @@
 	"detail": "Shake, Shake for a Tweet",
 	"description": "Use the motion sensor to detect shaking and find a random tweet",
     "url": "https://github.com/IoTDevEnvExamples/ShakeShake/archive/master.zip"
-}]
+}, {
+    "name": "RemoteMonitoringV2",
+	"detail": "Connect to Microosft IoT Central",
+	"description": "Use DevKit to send sensor data to your Azure IoT Suite",
+    "url": "https://github.com/IoTDevEnvExamples/RemoteMonitoringV2/archive/master.zip"
+}, {
+    "name": "DevKitTranslator",
+	"detail": "Turn DevKit as a translator",
+	"description": "Use IoT DevKit AZ3166 with Azure Function and Cognitive Services to make a language translator",
+    "url": "https://github.com/IoTDevEnvExamples/DevKitTranslator/archive/master.zip"
+}
+]
