@@ -1,16 +1,36 @@
 [{
     "name": "Get_Started",
-	"detail": "Get started with DevKit mini solution",
-	"description": "Send sensor data from DevKit to Azure IoTHub",
+    "detail": "Get started with DevKit mini solution",
+    "description": "Send sensor data from DevKit to Azure IoTHub",
     "url": "https://github.com/IoTDevEnvExamples/GetStarted/archive/master.zip"
 }, {
     "name": "DevKit_DPS",
-	"detail": "Device registration with DPS",
-	"description": "Automatically provision security enabled devices to Azure IoTHub",
+    "detail": "Device registration with DPS",
+    "description": "Automatically provision security enabled devices to Azure IoTHub",
     "url": "https://github.com/IoTDevEnvExamples/DevKitDPS/archive/master.zip"
 }, {
     "name": "ShakeShake",
-	"detail": "Shake, Shake for a Tweet",
-	"description": "Use the motion sensor to detect shaking and find a random tweet",
+    "detail": "Shake, Shake for a Tweet",
+    "description": "Use the motion sensor to detect shaking and find a random tweet",
     "url": "https://github.com/IoTDevEnvExamples/ShakeShake/archive/master.zip"
+}, {
+    "name": "RemoteMonitoringV2",
+    "detail": "Connect to Microosft IoT Central",
+    "description": "Use DevKit to send sensor data to your Azure IoT Suite",
+    "url": "https://github.com/IoTDevEnvExamples/RemoteMonitoringV2/archive/master.zip"
+}, {
+    "name": "DevKitTranslator",
+    "detail": "Turn DevKit as a translator",
+    "description": "Use IoT DevKit AZ3166 with Azure Function and Cognitive Services to make a language translator",
+    "url": "https://github.com/IoTDevEnvExamples/DevKitTranslator/archive/master.zip"
+}, {
+    "name": "MQTTClient",
+    "detail": "Connect to MQTT Server",
+    "description": "Use DevKit as a client to send messages to MQTT server",
+    "url": "https://github.com/IoTDevEnvExamples/MQTTClient/archive/master.zip"
+}, {
+    "name": "DevKitState",
+    "detail": "DevKit with Azure IoT Hub device twins",
+    "description": "Monitor DevKit states and control the user LED with Azure IoT Hub device twins",
+    "url": "https://github.com/IoTDevEnvExamples/DevKitState/archive/master.zip"
 }]
