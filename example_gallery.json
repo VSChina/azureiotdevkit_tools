@@ -28,5 +28,10 @@
 	"detail": "Connect to MQTT Server",
 	"description": "Use DevKit as a client to send messages to MQTT server",
     "url": "https://github.com/IoTDevEnvExamples/MQTTClient/archive/master.zip"
+}, {
+    "name": "DevKitState",
+	"detail": "DevKit with Azure IoT Hub device twins",
+	"description": "Monitor DevKit states and control the user LED with Azure IoT Hub device twins",
+    "url": "https://github.com/IoTDevEnvExamples/DevKitState/archive/master.zip"
 }
 ]
