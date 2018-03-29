@@ -23,5 +23,10 @@
 	"detail": "Turn DevKit as a translator",
 	"description": "Use IoT DevKit AZ3166 with Azure Function and Cognitive Services to make a language translator",
     "url": "https://github.com/IoTDevEnvExamples/DevKitTranslator/archive/master.zip"
+}, {
+    "name": "MQTTClient",
+	"detail": "Connect to MQTT Server",
+	"description": "Use DevKit as a client to send messages to MQTT server",
+    "url": "https://github.com/IoTDevEnvExamples/MQTTClient/archive/master.zip"
 }
 ]
