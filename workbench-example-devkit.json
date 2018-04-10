@@ -1,6 +1,7 @@
 
 [{
     "name": "Device Registration with DPS",
+    "project_name": "devkit_dps",
     "description": "Use the Device Provisioning Service to automatically provision security enabled devices to IoT hub.",
     "url": "https://github.com/IoTDevEnvExamples/DevKitDPS/archive/master.zip",
     "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-dps.jpg",
@@ -9,6 +10,7 @@
     "featured": true
 }, {
     "name": "Get Started",
+    "project_name": "devkit_getstarted",
     "description": "Send sensor data from DevKit to Azure IoTHub.",
     "url": "https://github.com/IoTDevEnvExamples/GetStarted/archive/master.zip",
     "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devkit-get-started-th.jpg",
@@ -16,6 +18,7 @@
     "difficulty": "easy"
 }, {
     "name": "Shake, Shake for a Tweet",
+    "project_name": "devkit_shakeshake",
     "description": "Use the motion sensor to detect shaking and  find a random tweet with a #hashtag.",
     "url": "https://github.com/IoTDevEnvExamples/ShakeShake/archive/master.zip",
     "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-shake-shake-th.jpg",
@@ -23,6 +26,7 @@
     "difficulty": "medium"
 }, {
     "name": "Remote Monitoring v2",
+    "project_name": "devkit_remotemonitoringv2",
     "description": "Send status of sensors on DevKit to Azure IoT Suite for monitoring.",
     "url": "https://github.com/IoTDevEnvExamples/RemoteMonitoringV2/archive/master.zip",
     "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-remote-monitoring-th.jpg",
@@ -30,6 +34,7 @@
     "difficulty": "easy"
 }, {
     "name": "DevKit Translator",
+    "project_name": "devkit_translator",
     "description": "Turn DevKit as a translator by using Bing Speech Translator service.",
     "url": "https://github.com/IoTDevEnvExamples/DevKitTranslator/archive/master.zip",
     "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-devkit-translator-th.jpg",
@@ -37,6 +42,7 @@
     "difficulty": "medium"
 }, {
     "name": "MQTT Client",
+    "project_name": "devkit_mqttclient",
     "description": "Use DevKit as a client to send messages to MQTT server.",
     "url": "https://github.com/IoTDevEnvExamples/MQTTClient/archive/master.zip",
     "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-mqtt-helloworld-th.jpg",
@@ -44,6 +50,7 @@
     "difficulty": "easy"
 }, {
     "name": "DevKit State",
+    "project_name": "devkit_state",
     "description": "Monitor DevKit states and control the user LED with Azure IoT Hub device twins.",
     "url": "https://github.com/IoTDevEnvExamples/DevKitState/archive/master.zip",
     "image": "https://raw.githubusercontent.com/DevKitExamples/DevKitState/master/devkit-state-th.jpg",
