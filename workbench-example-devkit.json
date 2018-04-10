@@ -11,7 +11,7 @@
     "name": "Get Started",
     "description": "Send sensor data from DevKit to Azure IoTHub.",
     "url": "https://github.com/IoTDevEnvExamples/GetStarted/archive/master.zip",
-    "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-your-ideas-th.jpg",
+    "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devkit-get-started-th.jpg",
     "totural": "https://microsoft.github.io/azure-iot-developer-kit/docs/get-started/",
     "difficulty": "easy"
 }, {
