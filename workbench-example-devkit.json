@@ -53,7 +53,7 @@
     "project_name": "devkit_state",
     "description": "Monitor DevKit states and control the user LED with Azure IoT Hub device twins.",
     "url": "https://github.com/IoTDevEnvExamples/DevKitState/archive/master.zip",
-    "image": "https://raw.githubusercontent.com/DevKitExamples/DevKitState/master/devkit-state-th.jpg",
+    "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devKit-state-th.jpg",
     "tutorial": "https://microsoft.github.io/azure-iot-developer-kit/docs/projects/devkit-state/",
     "difficulty": "easy"
 }]
