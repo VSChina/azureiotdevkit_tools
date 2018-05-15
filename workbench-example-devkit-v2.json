@@ -1,0 +1,131 @@
+{
+    "examples": [
+        {
+            "name": "Device Registration with DPS",
+            "project_name": "devkit_dps",
+            "description": "Use the Device Provisioning Service to automatically provision security enabled devices to IoT hub.",
+            "url": "https://github.com/IoTDevEnvExamples/DevKitDPS/archive/master.zip",
+            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-dps.jpg",
+            "tutorial": "https://docs.microsoft.com/en-us/azure/iot-dps/how-to-connect-mxchip-iot-devkit",
+            "difficulty": "medium",
+            "featured": true
+        },
+        {
+            "name": "Get Started",
+            "project_name": "devkit_getstarted",
+            "description": "Send sensor data from DevKit to Azure IoTHub.",
+            "url": "https://github.com/IoTDevEnvExamples/GetStarted/archive/master.zip",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devkit-get-started-th.jpg",
+            "tutorial": "https://microsoft.github.io/azure-iot-developer-kit/docs/get-started/",
+            "difficulty": "easy"
+        },
+        {
+            "name": "Shake, Shake for a Tweet",
+            "project_name": "devkit_shakeshake",
+            "description": "Use the motion sensor to detect shaking and  find a random tweet with a #hashtag.",
+            "url": "https://github.com/IoTDevEnvExamples/ShakeShake/archive/master.zip",
+            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-shake-shake-th.jpg",
+            "tutorial": "https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-retrieve-twitter-message",
+            "difficulty": "medium"
+        },
+        {
+            "name": "Remote Monitoring v2",
+            "project_name": "devkit_remotemonitoringv2",
+            "description": "Send status of sensors on DevKit to Azure IoT Suite for monitoring.",
+            "url": "https://github.com/IoTDevEnvExamples/RemoteMonitoringV2/archive/master.zip",
+            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-remote-monitoring-th.jpg",
+            "tutorial": "https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-devkit-remote-monitoring",
+            "difficulty": "easy"
+        },
+        {
+            "name": "DevKit Translator",
+            "project_name": "devkit_translator",
+            "description": "Turn DevKit as a translator by using Bing Speech Translator service.",
+            "url": "https://github.com/IoTDevEnvExamples/DevKitTranslator/archive/master.zip",
+            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-devkit-translator-th.jpg",
+            "tutorial": "https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-translator",
+            "difficulty": "medium"
+        },
+        {
+            "name": "MQTT Client",
+            "project_name": "devkit_mqttclient",
+            "description": "Use DevKit as a client to send messages to MQTT server.",
+            "url": "https://github.com/IoTDevEnvExamples/MQTTClient/archive/master.zip",
+            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-mqtt-helloworld-th.jpg",
+            "tutorial": "https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-mqtt-helloworld",
+            "difficulty": "easy"
+        },
+        {
+            "name": "DevKit State",
+            "project_name": "devkit_state",
+            "description": "Monitor DevKit states and control the user LED with Azure IoT Hub device twins.",
+            "url": "https://github.com/IoTDevEnvExamples/DevKitState/archive/master.zip",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devKit-state-th.jpg",
+            "tutorial": "https://microsoft.github.io/azure-iot-developer-kit/docs/projects/devkit-state/",
+            "difficulty": "easy"
+        }
+    ],
+    "aside": [
+        {
+            "type": "links",
+            "title": "Quick Links",
+            "items": [
+                {
+                    "text": "API Reference",
+                    "url": "https://microsoft.github.io/azure-iot-developer-kit/docs/apis/arduino-language-reference/"
+                },
+                {
+                    "text": "FAQ",
+                    "url": "https://microsoft.github.io/azure-iot-developer-kit/docs/faq/"
+                },
+                {
+                    "text": "Report Issue",
+                    "url": "https://github.com/Microsoft/devkit-sdk/issues/new"
+                }
+            ]
+        },
+        {
+            "type": "feed",
+            "title": "Blogs",
+            "url": "https://blogs.msdn.microsoft.com/iotdev/feed/"
+        },
+        {
+            "type": "table",
+            "title": "Info",
+            "rows": [
+                [
+                    {
+                        "text": "Version"
+                    },
+                    {
+                        "text": "1.3.4",
+                        "url": "https://microsoft.github.io/azure-iot-developer-kit/versions/"
+                    }
+                ],
+                [
+                    {
+                        "text": "Last updated"
+                    },
+                    {
+                        "text": "March 28, 2018"
+                    }
+                ]
+            ]
+        },
+        {
+            "type": "badge",
+            "items": [
+                {
+                    "icon": "github",
+                    "text": "GitHub",
+                    "url": "https://github.com/microsoft/devkit-sdk"
+                },
+                {
+                    "icon": "feed",
+                    "text": "Feed",
+                    "url": "https://blogs.msdn.microsoft.com/iotdev/feed/"
+                }
+            ]
+        }
+    ]
+}
