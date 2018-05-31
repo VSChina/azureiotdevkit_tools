@@ -29,8 +29,8 @@
             "difficulty": "medium"
         },
         {
-            "name": "Remote Monitoring v2",
-            "project_name": "devkit_remotemonitoringv2",
+            "name": "Remote Monitoring",
+            "project_name": "devkit_remotemonitoring",
             "description": "Send status of sensors on DevKit to Azure IoT Suite for monitoring.",
             "url": "https://github.com/IoTDevEnvExamples/RemoteMonitoringV2/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-remote-monitoring-th.jpg",
