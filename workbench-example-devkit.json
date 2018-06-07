@@ -56,4 +56,12 @@
     "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devKit-state-th.jpg",
     "tutorial": "https://microsoft.github.io/azure-iot-developer-kit/docs/projects/devkit-state/",
     "difficulty": "easy"
+}, {
+    "name": "Door Monitor",
+    "project_name": "devkit_doormonitor",
+    "description": "Use magnetic sensor to detect the change of magnetic field, and send notifications.",
+    "url": "https://github.com/IoTDevEnvExamples/DevKitDoorMonitor/archive/master.zip",
+    "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-door-monitor-th.jpg",
+    "tutorial": "https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-door-monitor",
+    "difficulty": "medium"
 }]
