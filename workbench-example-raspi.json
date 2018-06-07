@@ -1,0 +1,12 @@
+{
+    "examples": [
+        {
+            "name": "Get Started",
+            "project_name": "raspi_getstarted",
+            "description": "Send sensor data from Raspberry Pi to Azure IoTHub.",
+            "url": "https://github.com/IoTDevEnvExamples/Raspi-GetStarted/archive/master.zip",
+            "tutorial": "https://github.com/IoTDevEnvExamples/Raspi-GetStarted#readme",
+            "difficulty": "easy"
+        }
+    ]
+}
