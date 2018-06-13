@@ -14,7 +14,7 @@
     "description": "Send sensor data from DevKit to Azure IoTHub.",
     "url": "https://github.com/IoTDevEnvExamples/GetStarted/archive/master.zip",
     "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devkit-get-started-th.jpg",
-    "tutorial": "https://microsoft.github.io/azure-iot-developer-kit/docs/get-started/",
+    "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-get-started.md",
     "difficulty": "easy"
 }, {
     "name": "Shake, Shake for a Tweet",
@@ -22,7 +22,7 @@
     "description": "Use the motion sensor to detect shaking and  find a random tweet with a #hashtag.",
     "url": "https://github.com/IoTDevEnvExamples/ShakeShake/archive/master.zip",
     "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-shake-shake-th.jpg",
-    "tutorial": "https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-retrieve-twitter-message",
+    "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-shakeshake.md",
     "difficulty": "medium"
 }, {
     "name": "Remote Monitoring",
@@ -30,7 +30,7 @@
     "description": "Send status of sensors on DevKit to Azure IoT Suite for monitoring.",
     "url": "https://github.com/IoTDevEnvExamples/RemoteMonitoringV2/archive/master.zip",
     "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-remote-monitoring-th.jpg",
-    "tutorial": "https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-devkit-remote-monitoring",
+    "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit_remote_monitoringv2.md",
     "difficulty": "easy"
 }, {
     "name": "DevKit Translator",
@@ -38,7 +38,7 @@
     "description": "Turn DevKit as a translator by using Bing Speech Translator service.",
     "url": "https://github.com/IoTDevEnvExamples/DevKitTranslator/archive/master.zip",
     "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-devkit-translator-th.jpg",
-    "tutorial": "https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-translator",
+    "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-translator.md",
     "difficulty": "medium"
 }, {
     "name": "MQTT Client",
@@ -46,7 +46,7 @@
     "description": "Use DevKit as a client to send messages to MQTT server.",
     "url": "https://github.com/IoTDevEnvExamples/MQTTClient/archive/master.zip",
     "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-mqtt-helloworld-th.jpg",
-    "tutorial": "https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-mqtt-helloworld",
+    "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-mqtt-client.md",
     "difficulty": "easy"
 }, {
     "name": "DevKit State",
@@ -54,7 +54,7 @@
     "description": "Monitor DevKit states and control the user LED with Azure IoT Hub device twins.",
     "url": "https://github.com/IoTDevEnvExamples/DevKitState/archive/master.zip",
     "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devKit-state-th.jpg",
-    "tutorial": "https://microsoft.github.io/azure-iot-developer-kit/docs/projects/devkit-state/",
+    "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-state.md",
     "difficulty": "easy"
 }, {
     "name": "Door Monitor",
@@ -62,6 +62,6 @@
     "description": "Use magnetic sensor to detect the change of magnetic field, and send notifications.",
     "url": "https://github.com/IoTDevEnvExamples/DevKitDoorMonitor/archive/master.zip",
     "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-door-monitor-th.jpg",
-    "tutorial": "https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-door-monitor",
+    "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit_door_monitor.md",
     "difficulty": "medium"
 }]
