@@ -14,6 +14,7 @@
             "project_name": "raspi_simpleled",
             "description": "Control LED connected to Raspberry Pi in browser.",
             "url": "https://github.com/IoTDevEnvExamples/Raspi-SimpleLED/archive/master.zip",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-Raspberry-Pi-State-th.jpg",
             "tutorial": "https://github.com/IoTDevEnvExamples/Raspi-SimpleLED#readme",
             "difficulty": "easy"
         }
