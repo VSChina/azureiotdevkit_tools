@@ -72,6 +72,15 @@
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-door-monitor-th.jpg",
             "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit_door_monitor.md",
             "difficulty": "medium"
+        },
+        {
+            "name": "Firmware OTA",
+            "project_name": "FirmwareOTA",
+            "description": "Use IoT Hub to perform firmware OTA update for DevKit.",
+            "url": "https://github.com/IoTDevEnvExamples/FirmwareOTA/archive/master.zip",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-OTA-firmware-update-th.jpg",
+            "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-ota.md",
+            "difficulty": "easy"
         }
     ],
     "aside": [
