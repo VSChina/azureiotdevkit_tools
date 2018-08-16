@@ -86,7 +86,6 @@
       },
       "required": [
         "type",
-        "title",
         "items"
       ]
     },
@@ -112,7 +111,6 @@
       },
       "required": [
         "type",
-        "title",
         "url"
       ]
     },
@@ -156,7 +154,6 @@
       },
       "required": [
         "type",
-        "title",
         "rows"
       ]
     },
@@ -198,14 +195,13 @@
               }
             },
             "required": [
-              "text"
+              "icon"
             ]
           }
         }
       },
       "required": [
         "type",
-        "title",
         "items"
       ]
     }
