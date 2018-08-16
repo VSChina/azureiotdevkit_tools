@@ -1,4 +1,5 @@
 {
+    "$schema": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/schemas/v2/example.json",
     "examples": [
         {
             "name": "Device Registration with DPS",
@@ -21,7 +22,7 @@
         },
         {
             "name": "Firmware OTA",
-            "project_name": "FirmwareOTA",
+            "project_name": "firmware_ota",
             "description": "Use IoT Hub to perform firmware OTA update for DevKit.",
             "url": "https://github.com/IoTDevEnvExamples/FirmwareOTA/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-OTA-firmware-update-th.jpg",

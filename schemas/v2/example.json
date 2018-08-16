@@ -42,7 +42,11 @@
             "hard"
           ]
         }
-      }
+      },
+      "required": [
+        "name",
+        "url"
+      ]
     },
     "aside_link": {
       "type": "object",
@@ -53,6 +57,10 @@
             "links"
           ],
           "description": "Aside type"
+        },
+        "title": {
+          "type": "string",
+          "description": "Aside title"
         },
         "items": {
           "type": "array",
@@ -68,10 +76,19 @@
                 "format": "uri",
                 "description": "Link URL"
               }
-            }
+            },
+            "required": [
+              "text",
+              "url"
+            ]
           }
         }
-      }
+      },
+      "required": [
+        "type",
+        "title",
+        "items"
+      ]
     },
     "aside_feed": {
       "type": "object",
@@ -83,12 +100,21 @@
           ],
           "description": "Aside type"
         },
+        "title": {
+          "type": "string",
+          "description": "Aside title"
+        },
         "url": {
           "type": "string",
           "format": "uri",
           "description": "Feed URL"
         }
-      }
+      },
+      "required": [
+        "type",
+        "title",
+        "url"
+      ]
     },
     "aside_table": {
       "type": "object",
@@ -99,6 +125,10 @@
             "table"
           ],
           "description": "Aside type"
+        },
+        "title": {
+          "type": "string",
+          "description": "Aside title"
         },
         "rows": {
           "type": "array",
@@ -116,11 +146,19 @@
                   "format": "uri",
                   "description": "Link URL"
                 }
-              }
+              },
+              "required": [
+                "text"
+              ]
             }
           }
         }
-      }
+      },
+      "required": [
+        "type",
+        "title",
+        "rows"
+      ]
     },
     "aside_badge": {
       "type": "object",
@@ -131,6 +169,10 @@
             "badge"
           ],
           "description": "Aside type"
+        },
+        "title": {
+          "type": "string",
+          "description": "Aside title"
         },
         "items": {
           "type": "array",
@@ -154,10 +196,18 @@
                 "format": "uri",
                 "description": "Link URL"
               }
-            }
+            },
+            "required": [
+              "text"
+            ]
           }
         }
-      }
+      },
+      "required": [
+        "type",
+        "title",
+        "items"
+      ]
     }
   },
   "properties": {
@@ -191,5 +241,9 @@
         ]
       }
     }
-  }
+  },
+  "required": [
+    "$schema",
+    "examples"
+  ]
 }
