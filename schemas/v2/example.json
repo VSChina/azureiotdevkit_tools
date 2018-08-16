@@ -1,0 +1,195 @@
+{
+  "id": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/schemas/v2/example.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "definitions": {
+    "example": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Name of the example"
+        },
+        "project_name": {
+          "type": "string",
+          "pattern": "^[a-z0-9_]+$",
+          "description": "Default folder name of the example"
+        },
+        "description": {
+          "type": "string",
+          "description": "Description of the example"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Download URI of the example"
+        },
+        "image": {
+          "type": "string",
+          "format": "uri",
+          "description": "Thumbnail of the example"
+        },
+        "tutorial": {
+          "type": "string",
+          "format": "uri",
+          "description": "Tutorial document URI of the example"
+        },
+        "difficulty": {
+          "type": "string",
+          "enum": [
+            "easy",
+            "medium",
+            "hard"
+          ]
+        }
+      }
+    },
+    "aside_link": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "links"
+          ],
+          "description": "Aside type"
+        },
+        "items": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "text": {
+                "type": "string",
+                "description": "Text of the link"
+              },
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "description": "Link URL"
+              }
+            }
+          }
+        }
+      }
+    },
+    "aside_feed": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "feed"
+          ],
+          "description": "Aside type"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Feed URL"
+        }
+      }
+    },
+    "aside_table": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "table"
+          ],
+          "description": "Aside type"
+        },
+        "rows": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "text": {
+                  "type": "string",
+                  "description": "Text"
+                },
+                "url": {
+                  "type": "string",
+                  "format": "uri",
+                  "description": "Link URL"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "aside_badge": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "badge"
+          ],
+          "description": "Aside type"
+        },
+        "items": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "icon": {
+                "type": "string",
+                "enum": [
+                  "github",
+                  "feed"
+                ],
+                "description": "Icon name"
+              },
+              "text": {
+                "type": "string",
+                "description": "Text of the badge"
+              },
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "description": "Link URL"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "format": "uri",
+      "description": "JSON schema reference"
+    },
+    "examples": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/example"
+      }
+    },
+    "aside": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          {
+            "$ref": "#/definitions/aside_link"
+          },
+          {
+            "$ref": "#/definitions/aside_feed"
+          },
+          {
+            "$ref": "#/definitions/aside_table"
+          },
+          {
+            "$ref": "#/definitions/aside_badge"
+          }
+        ]
+      }
+    }
+  }
+}
