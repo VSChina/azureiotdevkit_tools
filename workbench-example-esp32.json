@@ -1,0 +1,28 @@
+{
+    "examples": [
+        {
+            "name": "Esp32 ASA CosmosDB",
+            "project_name": "esp32_asa_cosmosdb",
+            "description": "Send simulated data to IotHub and record some unusual data to Cosmosdb.",
+            "url": "https://github.com/IoTDevEnvExamples/Esp32ASACosmosDB/archive/master.zip",
+            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-dps.jpg",
+            "difficulty": "easy"
+        },
+        {
+            "name": "Esp32 State",
+            "project_name": "esp32_state",
+            "description": "Send the Wifi around Esp32 device to IotHub and use webpage to control device to restart.",
+            "url": "https://github.com/IoTDevEnvExamples/Esp32State/archive/master.zip",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devkit-get-started-th.jpg",
+            "difficulty": "easy"
+        },
+        {
+            "name": "M5Stack Email Receiver",
+            "project_name": "m5stack_email_receiver",
+            "description": "Use M5Stack to receive email from Gmail.",
+            "url": "https://github.com/IoTDevEnvExamples/M5StackEmailReceiver/archive/master.zip",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-OTA-firmware-update-th.jpg",
+            "difficulty": "medium"
+        }
+    ]
+}
