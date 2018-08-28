@@ -1,18 +1,25 @@
 {
     "examples": [
-        {
-            "name": "Esp32 ASA CosmosDB",
-            "project_name": "esp32_asa_cosmosdb",
-            "description": "Send simulated data to IotHub and record some unusual data to Cosmosdb.",
-            "url": "https://github.com/IoTDevEnvExamples/Esp32ASACosmosDB/archive/master.zip",
+        {   "name": "ESP32 Get Started",
+            "project_name": "esp32_get_started",
+            "description": "Send simulated data from ESP32 to Azure IoTHub.",
+            "url": "https://github.com/IoTDevEnvExamples/ESP32GetStarted/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-dps.jpg",
             "difficulty": "easy"
         },
         {
-            "name": "Esp32 State",
+            "name": "ESP32 ASA CosmosDB",
+            "project_name": "esp32_asa_cosmosdb",
+            "description": "Send simulated data to IotHub and record some unusual data to Cosmosdb.",
+            "url": "https://github.com/IoTDevEnvExamples/ESP32ASACosmosDB/archive/master.zip",
+            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-dps.jpg",
+            "difficulty": "easy"
+        },
+        {
+            "name": "ESP32 State",
             "project_name": "esp32_state",
             "description": "Send the Wifi around Esp32 device to IotHub and use webpage to control device to restart.",
-            "url": "https://github.com/IoTDevEnvExamples/Esp32State/archive/master.zip",
+            "url": "https://github.com/IoTDevEnvExamples/ESP32State/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devkit-get-started-th.jpg",
             "difficulty": "easy"
         },
