@@ -12,7 +12,7 @@
             "project_name": "esp32_asa_cosmosdb",
             "description": "Send simulated data to IotHub and record some unusual data to Cosmosdb.",
             "url": "https://github.com/IoTDevEnvExamples/ESP32ASACosmosDB/archive/master.zip",
-            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-dps.jpg",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-ESP32-ASA-CosmosDB-th.jpg",
             "difficulty": "easy"
         },
         {
@@ -20,7 +20,7 @@
             "project_name": "esp32_state",
             "description": "Send the Wifi around Esp32 device to IotHub and use webpage to control device to restart.",
             "url": "https://github.com/IoTDevEnvExamples/ESP32State/archive/master.zip",
-            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devkit-get-started-th.jpg",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-ESP32-State-th.jpg",
             "difficulty": "easy"
         },
         {
@@ -28,7 +28,7 @@
             "project_name": "m5stack_email_receiver",
             "description": "Use M5Stack to receive email from Gmail.",
             "url": "https://github.com/IoTDevEnvExamples/M5StackEmailReceiver/archive/master.zip",
-            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-OTA-firmware-update-th.jpg",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-M5Stack-Email-Receiver-th.jpg",
             "difficulty": "medium"
         }
     ]
