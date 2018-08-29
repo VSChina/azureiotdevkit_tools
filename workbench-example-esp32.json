@@ -1,4 +1,5 @@
 {
+    "$schema": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/schemas/v2/example.json",
     "examples": [
         {   "name": "ESP32 Get Started",
             "project_name": "esp32_get_started",
