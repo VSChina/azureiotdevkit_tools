@@ -15,7 +15,7 @@
             "name": "Get Started",
             "project_name": "devkit_getstarted",
             "description": "Send sensor data from DevKit to Azure IoTHub.",
-            "url": "https://github.com/IoTDevEnvExamples/GetStarted/archive/master.zip",
+            "url": "https://github.com/IoTDevEnvExamples/DevKitGetStarted/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devkit-get-started-th.jpg",
             "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-get-started.md",
             "difficulty": "easy"
@@ -24,7 +24,7 @@
             "name": "Firmware OTA",
             "project_name": "firmware_ota",
             "description": "Use IoT Hub to perform firmware OTA update for DevKit.",
-            "url": "https://github.com/IoTDevEnvExamples/FirmwareOTA/archive/master.zip",
+            "url": "https://github.com/IoTDevEnvExamples/DevKitFirmwareOTA/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-OTA-firmware-update-th.jpg",
             "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-ota.md",
             "difficulty": "easy"
@@ -33,7 +33,7 @@
             "name": "Remote Monitoring",
             "project_name": "devkit_remotemonitoring",
             "description": "Send status of sensors on DevKit to Azure IoT Suite for monitoring.",
-            "url": "https://github.com/IoTDevEnvExamples/RemoteMonitoringV2/archive/master.zip",
+            "url": "https://github.com/IoTDevEnvExamples/DevKitRemoteMonitoringV2/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-remote-monitoring-th.jpg",
             "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit_remote_monitoringv2.md",
             "difficulty": "easy"
@@ -60,7 +60,7 @@
             "name": "MQTT Client",
             "project_name": "devkit_mqttclient",
             "description": "Use DevKit as a client to send messages to MQTT server.",
-            "url": "https://github.com/IoTDevEnvExamples/MQTTClient/archive/master.zip",
+            "url": "https://github.com/IoTDevEnvExamples/DevKitMQTTClient/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-mqtt-helloworld-th.jpg",
             "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-mqtt-client.md",
             "difficulty": "easy"
@@ -69,7 +69,7 @@
             "name": "Shake, Shake for a Tweet",
             "project_name": "devkit_shakeshake",
             "description": "Use the motion sensor to detect shaking and  find a random tweet with a #hashtag.",
-            "url": "https://github.com/IoTDevEnvExamples/ShakeShake/archive/master.zip",
+            "url": "https://github.com/IoTDevEnvExamples/DevKitShakeShake/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-shake-shake-th.jpg",
             "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-shakeshake.md",
             "difficulty": "medium"
