@@ -18,15 +18,6 @@
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-Raspberry-Pi-State-th.jpg",
             "tutorial": "https://github.com/IoTDevEnvExamples/Raspi-SimpleLED#readme",
             "difficulty": "easy"
-        },
-        {
-            "name": "Face Recognition Access Control",
-            "project_name": "face_recognition_access_control",
-            "description": "Use picamera, raspberrypi and webapp to control access by recognizing faces.",
-            "url": "https://github.com/IoTDevEnvExamples/Raspi-FaceRecognitionAccessControl/archive/master.zip",
-            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-Raspberry-Pi-State-th.jpg",
-            "tutorial": "https://github.com/IoTDevEnvExamples/Raspi-FaceRecognitionAccessControl#readme",
-            "difficulty": "medium"
         }
     ]
 }
