@@ -7,7 +7,7 @@
             "description": "Use the Device Provisioning Service to automatically provision security enabled devices to IoT hub.",
             "url": "https://github.com/IoTDevEnvExamples/DevKitDPS/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-dps.jpg",
-            "tutorial": "https://docs.microsoft.com/en-us/azure/iot-dps/how-to-connect-mxchip-iot-devkit",
+            "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit_dps.md",
             "difficulty": "medium",
             "featured": true
         },
