@@ -35,6 +35,15 @@
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-M5Stack-Email-Receiver-th.jpg",
             "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/esp32/m5stack-email-receiver.md",
             "difficulty": "medium"
+        },
+        {
+            "name": "ESP32 Azure IoT Central",
+            "project_name": "esp32_iot_central",
+            "description": "Azure IoT Central example for esp32-azure-kit board.",
+            "url": "https://github.com/lzyms/ESP32IoTCentral/archive/master.zip",
+            "image": "https://raw.githubusercontent.com/lzyms/ESP32IoTCentral/master/images/esp32-board.jpg",
+            "tutorial": "https://github.com/lzyms/ESP32IoTCentral/blob/master/README.MD",
+            "difficulty": "medium"
         }
     ]
 }
