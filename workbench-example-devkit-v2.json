@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/schemas/v2/example.json",
+    "$schema": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/schemas/v3/example.json",
     "examples": [
         {
             "name": "Device Registration with DPS",
@@ -82,6 +82,13 @@
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-door-monitor-th.jpg",
             "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit_door_monitor.md",
             "difficulty": "medium"
+        },
+        {
+            "name": "Connect to Microsoft IoT Central",
+            "project_name": "devkit_iotcentral",
+            "description": "Learn as a device developer, to connect a DevKit to your Microsoft IoT Central application. All within 5 minutes.",
+            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-iot-central-th.jpg",
+            "tutorial": "https://docs.microsoft.com/en-us/azure/iot-central/howto-connect-devkit"
         }
     ],
     "aside": [
