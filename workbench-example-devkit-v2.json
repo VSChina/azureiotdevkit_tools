@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/schemas/v3/example.json",
+    "$schema": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/schemas/v4/example.json",
     "examples": [
         {
             "name": "Device Registration with DPS",
@@ -97,7 +97,7 @@
             "url": "https://github.com/IoTDevEnvExamples/DevKitKeywordSpotter/archive/master.zip",
             "tutorial": "https://github.com/IoTDevEnvExamples/DevKitKeywordSpotter/blob/master/README.md",
             "difficulty": "medium",
-            "authur":{
+            "author":{
                 "name": "Chris Lovett",
                 "homepage": "https://github.com/clovett"
             }
