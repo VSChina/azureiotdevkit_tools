@@ -101,7 +101,17 @@
                 "name": "Chris Lovett",
                 "homepage": "https://github.com/clovett"
             }
-
+        },
+        {
+            "name": "Pixelcraft - A IoT DevKit Painter",
+            "description": "Paint the pixels or import an image to modify on IoT DevKit screen, all within browser now.",
+            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/communities-pixelcraft-th.jpg",
+            "tutorial": "https://pixelcraft.cc/",
+            "author": {
+                "name": "Sneezry",
+                "avatar": "https://github.com/Sneezry.png?size=40",
+                "homepage": "https://github.com/sneezry"
+            }
         }
     ],
     "aside": [
