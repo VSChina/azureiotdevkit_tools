@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/schemas/v3/example.json",
+    "$schema": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/schemas/v4/example.json",
     "examples": [
         {
             "name": "Device Registration with DPS",
@@ -89,6 +89,30 @@
             "description": "Learn as a device developer, to connect a DevKit to your Microsoft IoT Central application. All within 5 minutes.",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-iot-central-th.jpg",
             "tutorial": "https://docs.microsoft.com/en-us/azure/iot-central/howto-connect-devkit"
+        },
+        {
+            "name": "Keyword Spotting on IoT DevKit ",
+            "project_name": "keyword_spotting",
+            "description": "Learn how to do simple voice recognition locally on your IoT DevKit without using a cloud service",
+            "image": "https://raw.githubusercontent.com/IoTDevEnvExamples/DevKitKeywordSpotter/master/projects-Running-AI-on-IoT-DevKit-with-ELL.png",
+            "url": "https://github.com/IoTDevEnvExamples/DevKitKeywordSpotter/archive/master.zip",
+            "tutorial": "https://github.com/IoTDevEnvExamples/DevKitKeywordSpotter/blob/master/README.md",
+            "difficulty": "medium",
+            "author":{
+                "name": "Chris Lovett",
+                "homepage": "https://github.com/clovett"
+            }
+        },
+        {
+            "name": "Pixelcraft - A IoT DevKit Painter",
+            "description": "Paint the pixels or import an image to modify on IoT DevKit screen, all within browser now.",
+            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/communities-pixelcraft-th.jpg",
+            "tutorial": "https://pixelcraft.cc/",
+            "author": {
+                "name": "Sneezry",
+                "avatar": "https://github.com/Sneezry.png?size=40",
+                "homepage": "https://github.com/sneezry"
+            }
         }
     ],
     "aside": [
