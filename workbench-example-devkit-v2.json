@@ -104,6 +104,20 @@
             }
         },
         {
+            "name": "Play GIFs on the MXCHIP ",
+            "project_name": "mxchip_gifs",
+            "description": "A fun application that leverages Azure IoT Hub Direct Methods and Azure App Service to play animated GIFs on the MXCHIP's screen.",
+            "image": "https://github.com/noopkat/mxchip-gifs/raw/master/project-gallery-thumb.jpg",
+            "url": "https://github.com/noopkat/mxchip-gifs/archive/master.zip",
+            "tutorial": "https://github.com/noopkat/mxchip-gifs/blob/master/README.md",
+            "difficulty": "medium",
+            "author":{
+                "name": "Suz Hinton",
+                "avatar": "https://github.com/noopkat.png?size=40",
+                "homepage": "https://github.com/noopkat"
+            }
+        },
+        {
             "name": "Pixelcraft - A IoT DevKit Painter",
             "description": "Paint the pixels or import an image to modify on IoT DevKit screen, all within browser now.",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/communities-pixelcraft-th.jpg",
