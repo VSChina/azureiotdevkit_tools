@@ -91,6 +91,15 @@
             "tutorial": "https://docs.microsoft.com/en-us/azure/iot-central/howto-connect-devkit"
         },
         {
+            "name": "Air Traffic Control Simulator",
+            "project_name": "devkit_flysim",
+            "description": "A comprehensive IoT solution with the very best features Microsoft Azure has to offer.",
+            "url": "https://github.com/Azure/CloudIoTHack/archive/master.zip",
+            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/mini-solution/air-traffic-control-simulator/lab2/app-in-flight-th.jpg",
+            "tutorial": "https://github.com/Azure/CloudIoTHack/blob/master/README.md",
+            "difficulty": "hard"
+        },
+        {
             "name": "Keyword Spotting on IoT DevKit ",
             "project_name": "keyword_spotting",
             "description": "Learn how to do simple voice recognition locally on your IoT DevKit without using a cloud service",
