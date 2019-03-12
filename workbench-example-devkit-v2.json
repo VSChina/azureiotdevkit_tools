@@ -90,7 +90,7 @@
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-iot-central-th.jpg",
             "tutorial": "https://docs.microsoft.com/en-us/azure/iot-central/howto-connect-devkit"
         },
-		{
+        {
             "name": "IoT Devkit Dictionary",
             "project_name": "devkit_dictionary",
             "description": "Learn how to configure DevKit to use Azure Speech Service and Oxford dictionaries API.",
@@ -134,7 +134,7 @@
                 "homepage": "https://github.com/noopkat"
             }
         },
-		{
+        {
             "name": "Control a fan using an MXChip and the cloud",
             "project_name": "InternetConnectedFan",
             "description": "Keep yourself cool with an internet connected fan that turns on when the temperature rises and turns off when it cools. You can even configure the temperature at which it comes on via the internet or a mobile app.",
