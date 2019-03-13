@@ -95,6 +95,7 @@
             "project_name": "devkit_dictionary",
             "description": "Learn how to configure DevKit to use Azure Speech Service and Oxford dictionaries API.",
             "url": "https://github.com/DevKitExamples/DevkitDictionary/archive/master.zip",
+			"image": "https://raw.githubusercontent.com/DevKitExamples/DevkitDictionary/master/projects-Oxford-dictionary-IoT-DevKit.png",
             "tutorial": "https://github.com/DevKitExamples/DevkitDictionary/blob/master/readme.md",
             "difficulty": "medium"
         },
