@@ -91,6 +91,15 @@
             "tutorial": "https://docs.microsoft.com/en-us/azure/iot-central/howto-connect-devkit"
         },
         {
+            "name": "IoT Devkit Dictionary",
+            "project_name": "devkit_dictionary",
+            "description": "Learn how to configure DevKit to use Azure Speech Service and Oxford dictionaries API.",
+            "url": "https://github.com/DevKitExamples/DevkitDictionary/archive/master.zip",
+			"image": "https://raw.githubusercontent.com/DevKitExamples/DevkitDictionary/master/projects-Oxford-dictionary-IoT-DevKit.png",
+            "tutorial": "https://github.com/DevKitExamples/DevkitDictionary/blob/master/readme.md",
+            "difficulty": "medium"
+        },
+        {
             "name": "Air Traffic Control Simulator",
             "project_name": "devkit_flysim",
             "description": "A comprehensive IoT solution with the very best features Microsoft Azure has to offer.",
@@ -124,6 +133,20 @@
                 "name": "Suz Hinton",
                 "avatar": "https://github.com/noopkat.png?size=40",
                 "homepage": "https://github.com/noopkat"
+            }
+        },
+        {
+            "name": "MXChip and Cloud Controlled Fan",
+            "project_name": "cloud_controlled_fan",
+            "description": "Keep yourself cool with an internet connected fan that turns on when the temperature rises and turns off when it cools. You can even configure the temperature at which it comes on via the internet or a mobile app.",
+            "image": "https://raw.githubusercontent.com/jimbobbennett/InternetConnectedFan/master/Images/PhotoOfFinalHardware.jpg",
+            "url": "https://github.com/jimbobbennett/InternetConnectedFan/archive/master.zip",
+            "tutorial": "https://github.com/jimbobbennett/InternetConnectedFan/blob/master/README.md",
+            "difficulty": "easy",
+            "author":{
+                "name": "Jim Bennett",
+                "avatar": "https://github.com/jimbobbennett.png?size=40",
+                "homepage": "https://github.com/jimbobbennett"
             }
         },
         {
