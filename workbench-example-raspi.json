@@ -7,7 +7,7 @@
             "description": "Send sensor data from Raspberry Pi to Azure IoTHub.",
             "url": "https://github.com/IoTDevEnvExamples/Raspi-GetStarted/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-Raspberry-Pi-get-started-th2.jpg",
-            "tutorial": "https://github.com/IoTDevEnvExamples/Raspi-GetStarted#readme",
+            "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/raspberry-pi/raspi-get-started.md",
             "difficulty": "easy"
         },
         {
@@ -16,7 +16,7 @@
             "description": "Control LED connected to Raspberry Pi in browser.",
             "url": "https://github.com/IoTDevEnvExamples/Raspi-SimpleLED/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-Raspberry-Pi-State-th.jpg",
-            "tutorial": "https://github.com/IoTDevEnvExamples/Raspi-SimpleLED#readme",
+            "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/raspberry-pi/raspi-simple-led.md",
             "difficulty": "easy"
         },
         {
@@ -25,7 +25,7 @@
             "description": "Use picamera, raspberrypi and webapp to control access by recognizing faces.",
             "url": "https://github.com/IoTDevEnvExamples/Raspi-FaceRecognitionAccessControl/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-Raspberry-Pi-face-recognition-th.png",
-            "tutorial": "https://github.com/IoTDevEnvExamples/Raspi-FaceRecognitionAccessControl#readme",
+            "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/raspberry-pi/raspi-face-recognition-access-control.md",
             "difficulty": "medium"
         }
     ]
