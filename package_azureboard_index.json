@@ -758,6 +758,36 @@
               "version": "0.10.0"
             }
           ]
+        },
+		{
+          "name": "MXChip - Microsoft Azure IoT Developer Kit",
+          "architecture": "stm32f4",
+          "version": "1.7.6",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/Microsoft/azure-iot-developer-kit"
+          },
+          "url": "https://azureboard.azureedge.net/prod/arduinopackage/internal/AZ3166-1.7.6.zip",
+          "archiveFileName": "AZ3166-1.7.6.zip",
+          "checksum": "MD5:b0b2678473f6c9641c36ece925512102",
+          "size": "5464447",
+          "boards": [
+            {
+              "name": "MXChip - Microsoft Azure IoT Developer Kit AZ3166"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "AZ3166",
+              "name": "arm-none-eabi-gcc",
+              "version": "5_4-2016q3"
+            },
+            {
+              "packager": "AZ3166",
+              "name": "openocd",
+              "version": "0.10.0"
+            }
+          ]
         }
       ],
       "tools": [
