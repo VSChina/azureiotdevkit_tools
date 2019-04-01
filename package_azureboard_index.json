@@ -818,7 +818,7 @@
               "version": "0.10.0"
             }
           ]
-        }，
+        },
 		{
           "name": "MXChip - Microsoft Azure IoT Developer Kit",
           "architecture": "stm32f4",
