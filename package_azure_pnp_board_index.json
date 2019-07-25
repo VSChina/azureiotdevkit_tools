@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "AZ3166-PnP",
+      "name": "MXChipIoTDevKit",
       "maintainer": "Microsoft Developer",
       "websiteURL": "https://microsoft.github.io/azure-iot-developer-kit/",
       "email": "aziotdevkit@microsoft.com",
@@ -17,10 +17,10 @@
           "help": {
             "online": "https://microsoft.github.io/azure-iot-developer-kit/"
           },
-          "url": "https://azureboard.azureedge.net/prod/arduinopackage/internal/AZ3166-PnP-1.9.3.zip",
-          "archiveFileName": "AZ3166-PnP-1.9.3",
-          "checksum": "MD5:9596fa3db5e400c9af436908dc846767",
-          "size": "5470248",
+          "url": "https://azureboard.azureedge.net/prod/arduinopackage/internal/MXChipIoTDevKit-1.9.3.zip",
+          "archiveFileName": "MXChipIoTDevKit-1.9.3.zip",
+          "checksum": "MD5:674b008206691f27ef19cc3fa6d5414f  ",
+          "size": "5491092",
           "boards": [
             {
               "name": "MXChip - Microsoft Azure IoT Plug and Play Developer Kit"
