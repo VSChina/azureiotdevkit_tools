@@ -28,12 +28,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "AZ3166",
+              "packager": "AZ3166-PnP",
               "name": "arm-none-eabi-gcc",
               "version": "5_4-2016q3"
             },
             {
-              "packager": "AZ3166",
+              "packager": "AZ3166-PnP",
               "name": "openocd",
               "version": "0.10.0"
             }
