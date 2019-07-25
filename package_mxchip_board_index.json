@@ -3,10 +3,10 @@
     {
       "name": "MXChipIoTDevKit",
       "maintainer": "Microsoft Developer",
-      "websiteURL": "https://microsoft.github.io/azure-iot-developer-kit/",
+      "websiteURL": "https://aka.ms/iot-devkit",
       "email": "aziotdevkit@microsoft.com",
       "help": {
-        "online": "https://microsoft.github.io/azure-iot-developer-kit/"
+        "online": "https://aka.ms/iot-devkit"
       },
       "platforms": [
         {
@@ -15,7 +15,7 @@
           "version": "1.9.3",
           "category": "Contributed",
           "help": {
-            "online": "https://microsoft.github.io/azure-iot-developer-kit/"
+            "online": "https://aka.ms/iot-devkit"
           },
           "url": "https://azureboard.azureedge.net/prod/arduinopackage/internal/MXChipIoTDevKit-1.9.3.zip",
           "archiveFileName": "MXChipIoTDevKit-1.9.3.zip",
