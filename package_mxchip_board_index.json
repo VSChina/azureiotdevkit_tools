@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "MXChip - Microsoft Azure IoT Plug and Play Developer Kit",
+          "name": "MXChip IoT DevKit - Microsoft Azure Developer Kit",
           "architecture": "stm32f4",
           "version": "1.9.3",
           "category": "Contributed",
@@ -23,7 +23,7 @@
           "size": "5491092",
           "boards": [
             {
-              "name": "MXChip - Microsoft Azure IoT Plug and Play Developer Kit"
+              "name": "MXChip IoT DevKit - Microsoft Azure Developer Kit"
             }
           ],
           "toolsDependencies": [
