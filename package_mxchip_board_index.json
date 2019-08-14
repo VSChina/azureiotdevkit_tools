@@ -12,15 +12,15 @@
         {
           "name": "MXChip - Microsoft Azure IoT Developer Kit",
           "architecture": "stm32f4",
-          "version": "1.9.3",
+          "version": "1.9.6",
           "category": "Contributed",
           "help": {
             "online": "https://aka.ms/iot-devkit"
           },
-          "url": "https://azureboard.azureedge.net/prod/arduinopackage/internal/AZ3166-1.9.3.zip",
-          "archiveFileName": "AZ3166-1.9.3.zip",
-          "checksum": "MD5:9596fa3db5e400c9af436908dc846767",
-          "size": "5470248",
+          "url": "https://azureboard.azureedge.net/prod/arduinopackage/AZ3166-1.9.6.zip",
+          "archiveFileName": "AZ3166-1.9.6.zip",
+          "checksum": "MD5:3270d9d655e4a8bb07944e34982bd730",
+          "size": "5510547",
           "boards": [
             {
               "name": "MXChip - Microsoft Azure IoT Developer Kit AZ3166"
