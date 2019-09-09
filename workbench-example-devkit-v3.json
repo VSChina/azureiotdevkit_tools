@@ -14,7 +14,7 @@
         {
             "name": "Get Started",
             "project_name": "devkit_getstarted",
-            "description": "Send sensor data from DevKit to Azure IoTHub."
+            "description": "Send sensor data from DevKit to Azure IoTHub.",
             "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-get-started/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devkit-get-started-th.jpg",
             "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-get-started/mxchip-iot-devkit-get-started/",
