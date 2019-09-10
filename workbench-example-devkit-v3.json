@@ -77,29 +77,29 @@
         {
             "name": "Shake, Shake for a Tweet",
             "project_name": "devkit_shakeshake",
-            "description": "[Not Actively Maintained] Use the motion sensor to detect shaking and  find a random tweet with a #hashtag.",
+            "description": "Use the motion sensor to detect shaking and  find a random tweet with a #hashtag.",
             "url": "https://github.com/IoTDevEnvExamples/DevKitShakeShake/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-shake-shake-th.jpg",
             "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-shakeshake.md",
-            "difficulty": "medium"
+            "difficulty": "archived"
         },
         {
             "name": "Door Monitor",
             "project_name": "devkit_doormonitor",
-            "description": "[Not Actively Maintained] Use magnetic sensor to detect the change of magnetic field, and send notifications.",
+            "description": "Use magnetic sensor to detect the change of magnetic field, and send notifications.",
             "url": "https://github.com/IoTDevEnvExamples/DevKitDoorMonitor/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-door-monitor-th.jpg",
             "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit_door_monitor.md",
-            "difficulty": "medium"
+            "difficulty": "archived"
         },
         {
             "name": "IoT Devkit Dictionary",
             "project_name": "devkit_dictionary",
-            "description": "[Not Actively Maintained] Learn how to configure DevKit to use Azure Speech Service and Oxford dictionaries API.",
+            "description": "Learn how to configure DevKit to use Azure Speech Service and Oxford dictionaries API.",
             "url": "https://github.com/DevKitExamples/DevkitDictionary/archive/master.zip",
 			"image": "https://raw.githubusercontent.com/DevKitExamples/DevkitDictionary/master/projects-Oxford-dictionary-IoT-DevKit.png",
             "tutorial": "https://github.com/DevKitExamples/DevkitDictionary/blob/master/readme.md",
-            "difficulty": "medium"
+            "difficulty": "archived"
         },
         {
             "name": "MXChip and Cloud Controlled Fan",
@@ -145,11 +145,11 @@
         {
             "name": "Air Traffic Control Simulator",
             "project_name": "devkit_flysim",
-            "description": "[Not Actively Maintained] A comprehensive IoT solution with the very best features Microsoft Azure has to offer.",
+            "description": "A comprehensive IoT solution with the very best features Microsoft Azure has to offer.",
             "url": "https://github.com/Azure/CloudIoTHack/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/mini-solution/air-traffic-control-simulator/lab2/app-in-flight-th.jpg",
             "tutorial": "https://github.com/Azure/CloudIoTHack/blob/master/README.md",
-            "difficulty": "hard",
+            "difficulty": "archived",
             "author":{
                 "name": "Jeff Prosise",
                 "homepage": "https://github.com/jeffprosise"

@@ -39,7 +39,8 @@
           "enum": [
             "easy",
             "medium",
-            "hard"
+            "hard",
+            "archived"
           ]
         },
         "author": {
