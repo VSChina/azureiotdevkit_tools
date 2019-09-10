@@ -7,7 +7,7 @@
             "description": "Use the Device Provisioning Service to automatically provision security enabled devices to IoT hub.",
             "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-dps/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/examples-v3/gallery-image/projects-devkit-mxchip-overview-page-th.jpg",
-            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-dps/sample/",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-dps/mxchip-iot-devkit-dps/",
             "difficulty": "medium",
             "featured": true
         },
@@ -17,7 +17,7 @@
             "description": "Send sensor data from DevKit to Azure IoTHub.",
             "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-get-started/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devkit-get-started-th.jpg",
-            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-get-started/sample/",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-get-started/mxchip-iot-devkit-get-started/",
             "difficulty": "easy"
         },
         {
@@ -26,7 +26,7 @@
             "description": "Use IoT Hub to perform firmware OTA update for DevKit.",
             "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-firmware-ota/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-OTA-firmware-update-th.jpg",
-            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-firmware-ota/sample/",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-firmware-ota/mxchip-iot-devkit-firmware-ota/",
             "difficulty": "easy"
         },
         {
@@ -35,7 +35,7 @@
             "description": "Send status of sensors on DevKit to Azure IoT Suite for monitoring.",
             "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-remote-monitoring/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-remote-monitoring-th.jpg",
-            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-remote-monitoring/sample/",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-remote-monitoring/mxchip-iot-devkit-remote-monitoring/",
             "difficulty": "easy"
         },
         {
@@ -44,7 +44,7 @@
             "description": "Monitor DevKit states and control the user LED with Azure IoT Hub device twins.",
             "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-state/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devKit-state-th.jpg",
-            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-state/sample/",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-state/mxchip-iot-devkit-state/",
             "difficulty": "easy"
         },
         {
@@ -53,7 +53,7 @@
             "description": "Use DevKit as a client to send messages to MQTT server.",
             "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-mqtt-client/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-mqtt-helloworld-th.jpg",
-            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-mqtt-client/sample/",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-mqtt-client/mxchip-iot-devkit-mqtt-client/",
             "difficulty": "easy"
         },
         {
@@ -62,7 +62,7 @@
             "description": "Learn as a device developer, to connect a DevKit to your Microsoft IoT Central application using IoT Plug and Play. All within 5 minutes.",
             "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-pnp/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-iot-central-th.jpg",
-            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-pnp/sample/",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-pnp/mxchip-iot-devkit-pnp/",
             "difficulty": "easy"
         },
         {
@@ -71,7 +71,7 @@
             "description": "Turn DevKit as a translator by using Bing Speech Translator service.",
             "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-translator/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-devkit-translator-th.jpg",
-            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-translator/sample/",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-translator/mxchip-iot-devkit-translator/",
             "difficulty": "medium"
         },
         {
@@ -81,7 +81,7 @@
             "url": "https://github.com/IoTDevEnvExamples/DevKitShakeShake/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-shake-shake-th.jpg",
             "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-shakeshake.md",
-            "difficulty": "archived"
+            "difficulty": "medium"
         },
         {
             "name": "Door Monitor",
