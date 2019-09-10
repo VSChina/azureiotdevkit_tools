@@ -61,7 +61,7 @@
             "project_name": "devkit_dps",
             "description": "Use the Device Provisioning Service to automatically provision security enabled devices to IoT hub.",
             "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-dps/archive/master.zip",
-            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-iot-central-th.jpg",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/examples-v3/gallery-image/projects-devkit-dps.jpg",
             "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-dps/mxchip-iot-devkit-dps/",
             "difficulty": "medium"
         },
@@ -81,7 +81,7 @@
             "url": "https://github.com/IoTDevEnvExamples/DevKitShakeShake/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-shake-shake-th.jpg",
             "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-shakeshake.md",
-            "difficulty": "medium"
+            "difficulty": "archived"
         },
         {
             "name": "Door Monitor",
