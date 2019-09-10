@@ -1,78 +1,87 @@
 {
     "$schema": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/schemas/v4/example.json",
     "examples": [
-        {
-            "name": "Device Registration with DPS",
-            "project_name": "devkit_dps",
-            "description": "Use the Device Provisioning Service to automatically provision security enabled devices to IoT hub.",
-            "url": "https://github.com/IoTDevEnvExamples/DevKitDPS/archive/master.zip",
-            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-dps.jpg",
-            "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit_dps.md",
-            "difficulty": "medium",
+        {            
+            "name": "Connect to IoT Central",
+            "project_name": "devkit_iotcentral",
+            "description": "Learn connect to Azure IoT Central via IoT Plug and Play in 5 minutes.",
+            "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-pnp/archive/master.zip",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/examples-v3/gallery-image/projects-devkit-mxchip-overview-page-th.jpg",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-pnp/sample/",
+            "difficulty": "easy",
             "featured": true
         },
         {
             "name": "Get Started",
             "project_name": "devkit_getstarted",
             "description": "Send sensor data from DevKit to Azure IoTHub.",
-            "url": "https://github.com/IoTDevEnvExamples/DevKitGetStarted/archive/master.zip",
+            "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-get-started/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devkit-get-started-th.jpg",
-            "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-get-started.md",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-get-started/sample/",
             "difficulty": "easy"
         },
         {
             "name": "Firmware OTA",
             "project_name": "firmware_ota",
             "description": "Use IoT Hub to perform firmware OTA update for DevKit.",
-            "url": "https://github.com/IoTDevEnvExamples/DevKitFirmwareOTA/archive/master.zip",
+            "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-firmware-ota/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-OTA-firmware-update-th.jpg",
-            "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-ota.md",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-firmware-ota/sample/",
             "difficulty": "easy"
         },
         {
             "name": "Remote Monitoring",
             "project_name": "devkit_remotemonitoring",
             "description": "Send status of sensors on DevKit to Azure IoT Suite for monitoring.",
-            "url": "https://github.com/IoTDevEnvExamples/DevKitRemoteMonitoringV2/archive/master.zip",
+            "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-remote-monitoring/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-remote-monitoring-th.jpg",
-            "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit_remote_monitoringv2.md",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-remote-monitoring/sample/",
             "difficulty": "easy"
         },
         {
             "name": "DevKit State",
             "project_name": "devkit_state",
             "description": "Monitor DevKit states and control the user LED with Azure IoT Hub device twins.",
-            "url": "https://github.com/IoTDevEnvExamples/DevKitState/archive/master.zip",
+            "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-state/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devKit-state-th.jpg",
-            "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-state.md",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-state/sample/",
             "difficulty": "easy"
-        },
-        {
-            "name": "DevKit Translator",
-            "project_name": "devkit_translator",
-            "description": "Turn DevKit as a translator by using Bing Speech Translator service.",
-            "url": "https://github.com/IoTDevEnvExamples/DevKitTranslator/archive/master.zip",
-            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-devkit-translator-th.jpg",
-            "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-translator.md",
-            "difficulty": "medium"
         },
         {
             "name": "MQTT Client",
             "project_name": "devkit_mqttclient",
             "description": "Use DevKit as a client to send messages to MQTT server.",
-            "url": "https://github.com/IoTDevEnvExamples/DevKitMQTTClient/archive/master.zip",
+            "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-mqtt-client/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-mqtt-helloworld-th.jpg",
-            "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-mqtt-client.md",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-mqtt-client/sample/",
             "difficulty": "easy"
+        },
+        {
+            "name": "Device Registration with DPS",
+            "project_name": "devkit_dps",
+            "description": "Use the Device Provisioning Service to automatically provision security enabled devices to IoT hub.",
+            "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-dps/archive/master.zip",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/examples-v3/gallery-image/projects-devkit-dps.jpg",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-dps/sample/",
+            "difficulty": "medium"
+        },
+        {
+            "name": "DevKit Translator",
+            "project_name": "devkit_translator",
+            "description": "Turn DevKit as a translator by using Bing Speech Translator service.",
+            "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-translator/archive/master.zip",
+            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-devkit-translator-th.jpg",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-translator/sample/",
+            "difficulty": "medium"
         },
         {
             "name": "Shake, Shake for a Tweet",
             "project_name": "devkit_shakeshake",
-            "description": "[Not Actively Maintained] Use the motion sensor to detect shaking and  find a random tweet with a #hashtag.",
+            "description": "Use the motion sensor to detect shaking and  find a random tweet with a #hashtag.",
             "url": "https://github.com/IoTDevEnvExamples/DevKitShakeShake/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-shake-shake-th.jpg",
             "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-shakeshake.md",
-            "difficulty": "medium"
+            "difficulty": "archived"
         },
         {
             "name": "Door Monitor",
@@ -81,14 +90,7 @@
             "url": "https://github.com/IoTDevEnvExamples/DevKitDoorMonitor/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-door-monitor-th.jpg",
             "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit_door_monitor.md",
-            "difficulty": "medium"
-        },
-        {
-            "name": "Connect to Microsoft IoT Central",
-            "project_name": "devkit_iotcentral",
-            "description": "Learn as a device developer, to connect a DevKit to your Microsoft IoT Central application. All within 5 minutes.",
-            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-iot-central-th.jpg",
-            "tutorial": "https://docs.microsoft.com/en-us/azure/iot-central/howto-connect-devkit"
+            "difficulty": "archived"
         },
         {
             "name": "IoT Devkit Dictionary",
@@ -97,16 +99,21 @@
             "url": "https://github.com/DevKitExamples/DevkitDictionary/archive/master.zip",
 			"image": "https://raw.githubusercontent.com/DevKitExamples/DevkitDictionary/master/projects-Oxford-dictionary-IoT-DevKit.png",
             "tutorial": "https://github.com/DevKitExamples/DevkitDictionary/blob/master/readme.md",
-            "difficulty": "medium"
+            "difficulty": "archived"
         },
         {
-            "name": "Air Traffic Control Simulator",
-            "project_name": "devkit_flysim",
-            "description": "A comprehensive IoT solution with the very best features Microsoft Azure has to offer.",
-            "url": "https://github.com/Azure/CloudIoTHack/archive/master.zip",
-            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/mini-solution/air-traffic-control-simulator/lab2/app-in-flight-th.jpg",
-            "tutorial": "https://github.com/Azure/CloudIoTHack/blob/master/README.md",
-            "difficulty": "hard"
+            "name": "MXChip and Cloud Controlled Fan",
+            "project_name": "cloud_controlled_fan",
+            "description": "Keep yourself cool with an internet connected fan that turns on when the temperature rises and turns off when it cools. You can even configure the temperature at which it comes on via the internet or a mobile app.",
+            "image": "https://raw.githubusercontent.com/jimbobbennett/InternetConnectedFan/master/Images/PhotoOfFinalHardware.jpg",
+            "url": "https://github.com/jimbobbennett/InternetConnectedFan/archive/master.zip",
+            "tutorial": "https://github.com/jimbobbennett/InternetConnectedFan/blob/master/README.md",
+            "difficulty": "easy",
+            "author":{
+                "name": "Jim Bennett",
+                "avatar": "https://github.com/jimbobbennett.png?size=40",
+                "homepage": "https://github.com/jimbobbennett"
+            }
         },
         {
             "name": "Keyword Spotting on IoT DevKit ",
@@ -127,7 +134,7 @@
             "description": "A fun application that leverages Azure IoT Hub Direct Methods and Azure App Service to play animated GIFs on the MXCHIP's screen.",
             "image": "https://github.com/noopkat/mxchip-gifs/raw/master/project-gallery-thumb.jpg",
             "url": "https://github.com/noopkat/mxchip-gifs/archive/master.zip",
-            "tutorial": "https://github.com/noopkat/mxchip-gifs/blob/master/README.md",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-gifs/mxchip-gifs-sample/",
             "difficulty": "medium",
             "author":{
                 "name": "Suz Hinton",
@@ -136,17 +143,16 @@
             }
         },
         {
-            "name": "MXChip and Cloud Controlled Fan",
-            "project_name": "cloud_controlled_fan",
-            "description": "Keep yourself cool with an internet connected fan that turns on when the temperature rises and turns off when it cools. You can even configure the temperature at which it comes on via the internet or a mobile app.",
-            "image": "https://raw.githubusercontent.com/jimbobbennett/InternetConnectedFan/master/Images/PhotoOfFinalHardware.jpg",
-            "url": "https://github.com/jimbobbennett/InternetConnectedFan/archive/master.zip",
-            "tutorial": "https://github.com/jimbobbennett/InternetConnectedFan/blob/master/README.md",
-            "difficulty": "easy",
+            "name": "Air Traffic Control Simulator",
+            "project_name": "devkit_flysim",
+            "description": "A comprehensive IoT solution with the very best features Microsoft Azure has to offer.",
+            "url": "https://github.com/Azure/CloudIoTHack/archive/master.zip",
+            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/mini-solution/air-traffic-control-simulator/lab2/app-in-flight-th.jpg",
+            "tutorial": "https://github.com/Azure/CloudIoTHack/blob/master/README.md",
+            "difficulty": "archived",
             "author":{
-                "name": "Jim Bennett",
-                "avatar": "https://github.com/jimbobbennett.png?size=40",
-                "homepage": "https://github.com/jimbobbennett"
+                "name": "Jeff Prosise",
+                "homepage": "https://github.com/jeffprosise"
             }
         },
         {
