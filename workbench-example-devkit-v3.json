@@ -7,7 +7,7 @@
             "description": "Learn connect to Azure IoT Central via IoT Plug and Play in 5 minutes.",
             "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-pnp/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/examples-v3/gallery-image/projects-devkit-mxchip-overview-page-th.jpg",
-            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-pnp/mxchip-iot-devkit-pnp/",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-pnp/sample/",
             "difficulty": "easy",
             "featured": true
         },
@@ -17,7 +17,7 @@
             "description": "Send sensor data from DevKit to Azure IoTHub.",
             "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-get-started/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devkit-get-started-th.jpg",
-            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-get-started/mxchip-iot-devkit-get-started/",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-get-started/sample/",
             "difficulty": "easy"
         },
         {
