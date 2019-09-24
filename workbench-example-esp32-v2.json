@@ -1,0 +1,54 @@
+{
+    "$schema": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/schemas/v2/example.json",
+    "examples": [
+        {   "name": "ESP32 Get Started",
+            "project_name": "esp32_get_started",
+            "description": "Send simulated data from ESP32 to Azure IoTHub.",
+            "url": "https://github.com/Azure-Samples/esp32-iot-devkit-get-started/archive/master.zip",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-ESP32-get-started-th.jpg",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/esp32-iot-devkit-get-started/sample/",
+            "difficulty": "easy"
+        },
+        {
+            "name": "ESP32 State",
+            "project_name": "esp32_state",
+            "description": "Send the Wifi around Esp32 device to IotHub and use webpage to control device to restart.",
+            "url": "https://github.com/Azure-Samples/esp32-iot-devkit-state/archive/master.zip",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-ESP32-State-th.jpg",
+            "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/esp32-iot-devkit-state/sample/",
+            "difficulty": "easy"
+        },
+        {
+            "name": "ESP32 ASA CosmosDB",
+            "project_name": "esp32_asa_cosmosdb",
+            "description": "Send simulated data to IotHub and record some unusual data to Cosmosdb.",
+            "url": "https://github.com/IoTDevEnvExamples/ESP32ASACosmosDB/archive/master.zip",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-ESP32-ASA-CosmosDB-th.jpg",
+            "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/esp32/esp32-stream-analytics-cosmos-db.md",
+            "difficulty": "archived"
+        },
+        {
+            "name": "M5Stack Email Receiver",
+            "project_name": "m5stack_email_receiver",
+            "description": "Use M5Stack to receive email from Gmail.",
+            "url": "https://github.com/IoTDevEnvExamples/M5StackEmailReceiver/archive/master.zip",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-M5Stack-Email-Receiver-th.jpg",
+            "tutorial": "https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/esp32/m5stack-email-receiver.md",
+            "difficulty": "archived"
+        },
+        {
+            "name": "ESP32 Azure IoT Central",
+            "project_name": "esp32_iot_central",
+            "description": "Azure IoT Central example for esp32-azure-kit board.",
+            "url": "https://github.com/lzyms/ESP32IoTCentral/archive/master.zip",
+            "image": "https://raw.githubusercontent.com/lzyms/ESP32IoTCentral/master/images/esp32-board.jpg",
+            "tutorial": "https://github.com/lzyms/ESP32IoTCentral/blob/master/README.MD",
+            "difficulty": "medium",
+            "author":{
+                "name": "Zhiyu Liu",
+                "avatar": "https://github.com/lzyms.png?size=40",
+                "homepage": "https://github.com/lzyms"
+            }
+        }
+    ]
+}
