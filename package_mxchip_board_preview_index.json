@@ -12,7 +12,7 @@
                 {
                     "name": "MXChip - Microsoft Azure IoT Developer Kit",
                     "architecture": "stm32f4",
-                    "version": "1.9.9",
+                    "version": "1.9.9-preview",
                     "category": "Contributed",
                     "help": {
                         "online": "https://aka.ms/iot-devkit"
@@ -42,7 +42,7 @@
                 {
                     "name": "MXChip - Microsoft Azure IoT Developer Kit",
                     "architecture": "stm32f4",
-                    "version": "1.9.10",
+                    "version": "1.9.10-preview",
                     "category": "Contributed",
                     "help": {
                         "online": "https://aka.ms/iot-devkit"
