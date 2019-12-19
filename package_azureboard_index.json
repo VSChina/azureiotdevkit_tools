@@ -17,7 +17,7 @@
           "help": {
             "online": "https://microsoft.github.io/azure-iot-developer-kit/"
           },
-          "url": "https://azureboard.azureedge.net/prod/arduinopackage/AZ3166-1.0.0.zip",
+          "url": "https://github.com/microsoft/devkit-sdk/raw/1.0.0-release/AZ3166/prod/AZ3166-1.0.0.zip",
           "archiveFileName": "AZ3166-1.0.0.zip",
           "checksum": "MD5:ef0969d91f90067d00e0b4c24f28f53c",
           "size": "3268483",
