@@ -17,7 +17,7 @@
                     "help": {
                         "online": "https://aka.ms/iot-devkit"
                     },
-                    "url": "https://azureboard.azureedge.net/prod/arduinopackage/AZ3166-1.9.9.zip",
+                    "url": "https://github.com/microsoft/devkit-sdk/raw/1.9.9-preview/AZ3166/prod/AZ3166-1.9.9-preview.zip",
                     "archiveFileName": "AZ3166-1.9.9.zip",
                     "checksum": "MD5:108c161340c47cb4e9f48d8186a2bc9a",
                     "size": "5512153",
@@ -47,7 +47,7 @@
                     "help": {
                         "online": "https://aka.ms/iot-devkit"
                     },
-                    "url": "https://azureboard.azureedge.net/prod/arduinopackage/AZ3166-1.9.10.zip",
+                    "url": "https://github.com/microsoft/devkit-sdk/raw/1.9.10-preview/AZ3166/prod/AZ3166-1.9.10-preview.zip",
                     "archiveFileName": "AZ3166-1.9.10.zip",
                     "checksum": "MD5:1bb2567bf43695e5e42fc66adc78bc2f",
                     "size": "6390027",
@@ -77,7 +77,7 @@
                     "help": {
                         "online": "https://aka.ms/iot-devkit"
                     },
-                    "url": "https://azureboard2.azureedge.net/prod/arduinopackage/AZ3166-1.9.11-preview.zip",
+                    "url": "https://github.com/microsoft/devkit-sdk/raw/1.9.11-preview/AZ3166/prod/AZ3166-1.9.11-preview.zip",
                     "archiveFileName": "AZ3166-1.9.11-preview.zip",
                     "checksum": "MD5:8affd847f69afcb1a0677158e2017bd9",
                     "size": "6387055",
