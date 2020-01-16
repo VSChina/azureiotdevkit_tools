@@ -204,8 +204,17 @@
                         "text": "Version"
                     },
                     {
-                        "text": "1.6.2",
-                        "url": "https://microsoft.github.io/azure-iot-developer-kit/versions/"
+                        "text": "1.6.5",
+                        "url": "https://github.com/microsoft/devkit-sdk/releases"
+                    }
+                ],
+		[
+                    {
+                        "text": "Preview Version"
+                    },
+                    {
+                        "text": "1.9.11-preview",
+                        "url": "https://github.com/microsoft/devkit-sdk/releases"
                     }
                 ],
                 [
@@ -213,7 +222,7 @@
                         "text": "Last updated"
                     },
                     {
-                        "text": "April 4, 2019"
+                        "text": "December 3, 2019"
                     }
                 ]
             ]
