@@ -119,9 +119,9 @@
             "name": "Keyword Spotting on IoT DevKit ",
             "project_name": "keyword_spotting",
             "description": "Learn how to do simple voice recognition locally on your IoT DevKit without using a cloud service",
-            "image": "https://raw.githubusercontent.com/IoTDevEnvExamples/DevKitKeywordSpotter/master/projects-Running-AI-on-IoT-DevKit-with-ELL.png",
-            "url": "https://github.com/IoTDevEnvExamples/DevKitKeywordSpotter/archive/master.zip",
-            "tutorial": "https://github.com/IoTDevEnvExamples/DevKitKeywordSpotter/blob/master/README.md",
+            "image": "https://raw.githubusercontent.com/lovettchris/DevKitKeywordSpotter/master/projects-Running-AI-on-IoT-DevKit-with-ELL.png",
+            "url": "https://github.com/lovettchris/DevKitKeywordSpotter/archive/master.zip",
+            "tutorial": "https://github.com/lovettchris/DevKitKeywordSpotter/blob/master/README.md",
             "difficulty": "medium",
             "author":{
                 "name": "Chris Lovett",
