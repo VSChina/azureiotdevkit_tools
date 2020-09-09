@@ -21,13 +21,21 @@
             "difficulty": "easy"
         },
         {
+            "name": "Getting started with Azure RTOS",
+            "project_name": "devkit_getstarted_rtos",
+            "description": "In this tutorial you use Azure RTOS to connect the MXChip AZ3166 IoT DevKit (hereafter, the MXChip DevKit) to Azure IoT.",
+            "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-devkit-get-started-th.jpg",
+            "tutorial": "https://github.com/azure-rtos/getting-started/tree/master/MXChip/AZ3166",
+            "difficulty": "medium"
+        },
+        {
             "name": "Firmware OTA",
             "project_name": "firmware_ota",
             "description": "Use IoT Hub to perform firmware OTA update for DevKit.",
             "url": "https://github.com/Azure-Samples/mxchip-iot-devkit-firmware-ota/archive/master.zip",
             "image": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/gallery-image/projects-OTA-firmware-update-th.jpg",
             "tutorial": "https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-firmware-ota/sample/",
-            "difficulty": "easy"
+            "difficulty": "medium"
         },
         {
             "name": "Remote Monitoring",
